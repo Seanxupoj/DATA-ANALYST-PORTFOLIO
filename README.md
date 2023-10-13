@@ -20,3 +20,5 @@ Welcome messages!
 **Ending**  
 
 *message*
+
+[Link](www.google.com)
