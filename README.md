@@ -3,14 +3,17 @@
 
 Welcome messages!
 
-Directory
+**Directory**
 * A
 * B
 * C
 * D
 
-Introduction
+**Introduction**
+*message*
 
-Explaination
+**Explaination**
+*message*
 
-Ending
+**Ending**
+*message*
