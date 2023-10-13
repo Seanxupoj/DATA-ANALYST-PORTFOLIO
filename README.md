@@ -6,10 +6,10 @@ Welcome messages!
 > "quote"
 
 **Directory**
-* A
-* B
-* C
-* D
+* Bulletpoint
+* Bulletpoint
+* Bulletpoint
+* Bulletpoint
 
 **Introduction**  
   
