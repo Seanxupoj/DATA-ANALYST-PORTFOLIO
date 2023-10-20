@@ -33,11 +33,9 @@ follow:
 - **Phase 3**: Analyzing and visualizing data.
 
 - **Phase 4**: Sharing insights from the analysis
-
- 
-
+&nbsp;
 Let’s get started!
-
+&nbsp;
 ## Phase 1: Understanding data
 
 ### 1.1 Loading packages used in this analysis
@@ -71,7 +69,7 @@ library(janitor)
     ## The following objects are masked from 'package:stats':
     ## 
     ##     chisq.test, fisher.test
-
+&nbsp;
 ### 1.2 Importing data files and assigning data names
 
 Having already downloaded the files locally, we can go ahead and read
@@ -129,7 +127,7 @@ weight <- read_csv("weightLogInfo_merged.csv")
     ## 
     ## ℹ Use `spec()` to retrieve the full column specification for this data.
     ## ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
-
+&nbsp;
 ### 1.3 Reviewing the imported data frames
 
 Now that the data is in here, we will review it to understand more about
