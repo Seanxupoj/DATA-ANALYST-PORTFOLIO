@@ -775,8 +775,8 @@ evening time from **5pm to 7pm**.
   the pandemic in 2020 which has already shifted people’s behavior over
   the past years. More up-to-date data would be required to generate
   more accurate insights for today’s consumers.
- 
-&nbsp;
+
+&nbsp;  
 
 **This is the end of the analysis.**  
 
