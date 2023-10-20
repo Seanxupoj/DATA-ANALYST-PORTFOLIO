@@ -24,13 +24,13 @@ smart device usage.
 For readability, I have divided this project into **4 phases** as
 follow:
 
-- **Phase 1**: Understanding data.
+- **Phase 1: Understanding data.**
 
-- **Phase 2**: Cleaning data.
+- **Phase 2: Cleaning data.**
 
-- **Phase 3**: Analyzing and visualizing data.
+- **Phase 3: Analyzing and visualizing data.**
 
-- **Phase 4**: Sharing insights from the analysis
+- **Phase 4: Sharing insights from the analysis**
 
 &nbsp;
 
@@ -782,5 +782,7 @@ evening time from **5pm to 7pm**.
  
 
 **This is end of the analysis.** 
+
 &nbsp;
+
 **Thank you very much!**
