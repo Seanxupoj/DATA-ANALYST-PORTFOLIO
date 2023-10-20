@@ -1,22 +1,20 @@
 Wellness Tracker Data Analysis
 ================
-Sean X
+Supoj Xu (Sean)
 2023-09-30
-
- 
 
 ## Project Overview
 
 This exploratory analysis is a capstone project for *Google Data
 Analytics Professional Course*. I selected this topic mainly because of
-my personal interest in healthy lifestyle. I will use RStudio for the
-entire analysis and R Markdown for reporting the process and the
+my personal interest in healthy lifestyle. I will use **RStudio** for the
+entire analysis and **R Markdown** for reporting the process and the
 results.
 
 The dataset I will be analyzing is called `Fitbit fitness tracker data`
-from a publicly accessible source. There are 18 CSV files which contains
+from a publicly accessible source. There are **18 CSV files** which contains
 fitness data of users assigned with unique IDs. Because many files
-contain overlapping data, I chose 4 files that cover most of the data to
+contain overlapping data, I chose **4 files** that cover most of the data to
 work on.
 
 The main **objective** is to analyze smart device fitness data in order
@@ -45,7 +43,7 @@ Let’s get started!
 ### 1.1 Loading packages used in this analysis
 
 I will import **janitor** and **tidyverse** libraries which comprise of
-packages such as *dplyr, readr, tidyr, ggplot2,* and *lubridate* for
+packages such as `dplyr`, `readr`, `tidyr`, `ggplot2`, and `lubridate` for
 reading files, cleaning data, conducting analysis, plotting graphs, etc.
 
 ``` r
@@ -269,7 +267,7 @@ sample data for each data table above. Here is a quick observation:
   of sleeps/day, Total minutes, Total Time in Bed.
 
 - `weight` table contains weight by day in Kg and Lbs.
-
+&nbsp;
 ### 1.4 Verifying unique user IDs in each data frame
 
 Here we need to check how many unique IDs were recorded in each table.
@@ -301,7 +299,7 @@ n_distinct(weight$Id)
 Most tables contain data of **24-33** unique IDs, except `weight` log
 table which only contain **8** unique IDs. Here we will esclude `weight`
 table due to low sample size.
-
+&nbsp;
 ## Phase 2: Cleaning data
 
 ### 2.1 Identifying duplicate rows in data frames and removing them
@@ -338,7 +336,7 @@ sum(duplicated(sleep))
 
 Double check to see if the duplicated rows are removed. We can see here
 that they are all cleared.
-
+&nbsp;
 ### 2.2 Cleaning and renaming columns in each data frame
 
 We will use `clean_names()` function to make sure that column names are
@@ -415,7 +413,7 @@ clean_names(h_steps)
 ``` r
  h_steps <- rename_with(h_steps, tolower)
 ```
-
+&nbsp;
 ### 2.3 Converting date and time formats, and renaming columns
 
 We will rename date columns for easy understanding and change the data
@@ -434,7 +432,7 @@ h_steps <- h_steps %>%
   rename(date_time = activityhour) %>% 
   mutate(date_time = as.POSIXct(date_time, format="%m/%d/%Y %I:%M:%S %p"))
 ```
-
+&nbsp;
 ### 2.4 Merging two data frames into one
 
 We will merge `activity` and `sleep` tables together for upcoming
@@ -482,7 +480,7 @@ head(activity_sleep)
     ## 4                 1                412            442
     ## 5                 2                340            367
     ## 6                 1                700            712
-
+&nbsp;
 ## Phase 3: Analyzing and visualizing data
 
 ### 3.1 Calculating statistical values for the newly merged data frame
@@ -535,7 +533,7 @@ Here are some insights we can draw from these numbers:
   `veryactiveminutes` meaning that the data is right-skewed. This
   indicates that the majority of users are way below average and a small
   group is above average in time spent being active.
-
+&nbsp;
 ### 3.2 Finding correlations between variables with scatter plots
 
 We will use scatter plot to understand the relationships between
@@ -579,7 +577,7 @@ ggplot(data = subset(activity_sleep, !is.na(totalminutesasleep)),
    
 There is little to no relationship between **steps** and **sleep
 duration**.
-
+&nbsp;
 #### 3.3 Separating data_time column into date and time in h_steps data frame
 
 We need to separate datetime value in `h_step` into two columns.
@@ -593,7 +591,7 @@ h_steps <- h_steps %>%
     ## Warning: Expected 2 pieces. Missing pieces filled with `NA` in 934 rows [1, 25, 49, 73,
     ## 97, 121, 145, 169, 193, 217, 241, 265, 289, 313, 337, 361, 385, 409, 433, 457,
     ## ...].
-
+&nbsp;
 #### 3.4 Adding a new data frame aggregating average steps by weekday and time
 
 To find out when users are the most active, we will create a new data
@@ -612,7 +610,7 @@ h_steps_weekday$weekday <- ordered(h_steps_weekday$weekday,
                                            "Friday", "Saturday", 
                                            "Sunday"))
 ```
-
+&nbsp;
 #### 3.5 Visualizaing average activity level during the days of the week with a heat map
 
 With the new `h_steps_weekday`, we can visualize the data with a
@@ -638,7 +636,7 @@ During the weekday, users are usually more active during lunch time and
 between 4-7pm. While on Saturday, users are more active between
 11am-2pm. Users are the most active at 1pm on Saturday and 5-6pm on
 Wednesday.
-
+&nbsp;
 #### 3.6 Grouping users into four types
 
 Here we will categorize users based on their activity level. our
@@ -678,9 +676,9 @@ user_type_sum
     ## 3 Sedentary          8            0.242
     ## 4 Very active        7            0.212
 
-About 50% of the users are lightly active and below, and the other half
+About **50% of the users** are lightly active and below, and **the other half**
 are fairly active and above.
-
+&nbsp;
 #### 3.7 Categorizing users by the usage level of wellness tracker
 
 Now we also want to understand how often users use their tracker. We
@@ -719,7 +717,7 @@ usage_level_sum
     ## 3 Midium               3           0.0909
 
 About 88% of the users use their tracker for more than 20 days.
-
+&nbsp;
 #### 3.8 Finding average hourly steps throughout the day and visualizing the values
 
 We also want to find out how active users are throughout the day on
@@ -746,28 +744,28 @@ ggplot(data = avg_h_steps)+
 From the graph, we can see that users are more active between **8pm to
 7pm**. They walk more steps during lunch time from **12pm to 2pm** and
 evening time from **5pm to 7pm**.
-
+&nbsp;
 ## Phase 4: Sharing insights from the analysis
 
 **Key findings**:
 
-- On average, users walk *less than the daily 10,000 steps recommended
-  by CDC*. They also spend 67% of the day being inactive. This shows
+- On average, users walk **less than** the daily 10,000 steps recommended
+  by **CDC**. They also spend **67%** of the day being inactive. This shows
   that wellness device companies still have a lot to improve in order to
   help users be more active.
 
-- Daily steps taken is *somewhat correlated* with calories loss, while
-  there is *little to no correlation* between steps taken and sleep
+- Daily steps taken is **somewhat correlated** with calories loss, while
+  there is **little to no correlation** between steps taken and sleep
   duration. This means that users who actively move around tend to lose
   more calories than those who are inactive.
 
-- Users are overall more active *during lunch time and end of the work
-  hours* in the weekday, while they are more active *at noon* on
+- Users are overall more active **during lunch time and end of the work
+  hours** in the weekday, while they are more active around **noon time** on
   Saturday. Wellness tech companies should target and encourage users to
-  move around more in *the morning and afternoon time*.
+  move around more in **the morning and afternoon time**.
 
-- Most users use the tracker *more than 20 days* out of 31 days, with
-  *12%* using it less than 20 days. Wellness companies should continue
+- Most users use the tracker **more than 20 days** out of 31 days, with
+  **12%** using it less than 20 days. Wellness companies should continue
   to implement ways to motivate users to consistently wear the tracking
   device with things like ranking, game mechanics, rewards, reminders,
   and personalized health advice.
@@ -783,4 +781,6 @@ evening time from **5pm to 7pm**.
 
  
 
-This is end of the analysis. Thank you very much!
+**This is end of the analysis.** 
+&nbsp;
+**Thank you very much!**
