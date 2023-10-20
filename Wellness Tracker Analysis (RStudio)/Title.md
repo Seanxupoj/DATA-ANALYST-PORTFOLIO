@@ -537,13 +537,11 @@ ggplot(data = activity_sleep, aes(x = totalsteps, y = calories))+
 
     ## `geom_smooth()` using method = 'loess' and formula = 'y ~ x'
 
-![](Title_files/figure-gfm/unnamed-chunk-11-1.png)<!-- --> The
+![](Title_files/figure-gfm/unnamed-chunk-11-1.png)<!-- --> 
 </pre>  
 
-
-
   
-correlation between **steps** and **calories loss**
+The correlation between **steps** and **calories loss**
 </pre>
 
 ``` r
@@ -558,12 +556,11 @@ ggplot(data = subset(activity_sleep, !is.na(totalminutesasleep)),
 
     ## `geom_smooth()` using method = 'loess' and formula = 'y ~ x'
 
-![](Title_files/figure-gfm/unnamed-chunk-12-1.png)<!-- --> The
+![](Title_files/figure-gfm/unnamed-chunk-12-1.png)<!-- --> 
 </pre>
 
-
-   
-correlation between **steps** and **sleep duration**
+  
+The correlation between **steps** and **sleep duration**
 </pre>
 
 #### 3.3 Separating data_time column into date and time in h_steps data frame
