@@ -540,6 +540,9 @@ ggplot(data = activity_sleep, aes(x = totalsteps, y = calories))+
 ![](Title_files/figure-gfm/unnamed-chunk-11-1.png)<!-- --> The
 </pre>  
 
+
+
+  
 correlation between **steps** and **calories loss**
 </pre>
 
@@ -558,6 +561,8 @@ ggplot(data = subset(activity_sleep, !is.na(totalminutesasleep)),
 ![](Title_files/figure-gfm/unnamed-chunk-12-1.png)<!-- --> The
 </pre>
 
+
+   
 correlation between **steps** and **sleep duration**
 </pre>
 
