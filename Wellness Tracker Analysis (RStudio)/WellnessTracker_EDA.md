@@ -776,9 +776,8 @@ evening time from **5pm to 7pm**.
   the past years. More up-to-date data would be required to generate
   more accurate insights for today’s consumers.
  
-
-**This is the end of the analysis.** 
-
 &nbsp;
 
-**Thank you very much!**
+**This is the end of the analysis.**  
+
+Thank you very much!
