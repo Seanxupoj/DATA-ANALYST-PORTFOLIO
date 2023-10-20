@@ -8,8 +8,8 @@ output:
   word_document: default
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+```{r global_options}
+knitr::opts_chunk$set(fig.path='Figs/')
 ```
   
   
