@@ -11,13 +11,10 @@ weight <- read_csv("weightLogInfo_merged.csv")
 # Reviewing imported data frames
 head(activity)
 glimpse(activity)
-
 head(h_steps)
 glimpse(h_steps)
-
 head(sleep)
 glimpse(sleep)
-
 head(weight)
 glimpse(weight)
 
@@ -54,26 +51,11 @@ sleep <- sleep %>%
   rename(date = sleepday) %>%
   mutate(date = as_date(date, format = "%m/%d/%Y  %I:%M:%S %p"))
 
-#============= old code with tz
-#activity <- activity %>% 
-  #rename(date = activitydate) %>%
-  #mutate(date = as_date(date, format = "%m/%d/%Y"))
-#sleep <- sleep %>%
-  #rename(date = sleepday) %>%
-  #mutate(date = as_date(date, format = "%m/%d/%Y  %I:%M:%S %p", tz = Sys.timezone()))
-#=============
-
 # Converting date string to date and time format and rename the column
 h_steps <- h_steps %>% 
   rename(date_time = activityhour) %>% 
   mutate(date_time = as.POSIXct(date_time, format="%m/%d/%Y %I:%M:%S %p"))
 head(h_steps)
-
-#============== old code with tz
-#h_steps <- h_steps %>% 
-  #rename(date_time = activityhour) %>% 
-  #mutate(date_time = as.POSIXct(date_time, format="%m/%d/%Y %I:%M:%S %p", tz= Sys.timezone()))
-#==============
 
 # Merging activity and sleep into a new data frame called activity_sleep
 activity_sleep <- merge(activity, sleep, by= c("id","date"), all.x = TRUE) 
@@ -86,10 +68,6 @@ activity_sleep %>%
          totalminutesasleep, totaltimeinbed) %>% 
   drop_na() %>% 
   summary() 
-# Findings
-## 16hrs of light active + sedentary + in bed no sleep (70 % of the day)
-## average of 8515 steps per day (lower than 10k recommended by CDC)
-## average sleep of 6.98hrs per day
 
 # Find correlations between daily steps, calories, and sleep with scatter plots
 ggplot(data = activity_sleep, aes(x = totalsteps, y = calories))+
@@ -98,7 +76,6 @@ ggplot(data = activity_sleep, aes(x = totalsteps, y = calories))+
   labs(title = "Correlation: Daily Steps vs Calories Loss", 
        x = "Daily Steps", y = "Calories Loss")+
   theme_gray()
- ## steps and calories = positive correlation
 
 ggplot(data = subset(activity_sleep, !is.na(totalminutesasleep)), 
                      aes(x = totalsteps, y = totalminutesasleep))+
@@ -107,7 +84,6 @@ ggplot(data = subset(activity_sleep, !is.na(totalminutesasleep)),
   labs(title = "Correlation: Daily Steps vs Sleep", 
        x = "Daily Steps", y = "Sleep")+
   theme_gray()
- ## steps and sleep = no correlation
 
 # Separate data_time column into date and time in h_steps data frame
 h_steps <- h_steps %>% 
@@ -136,8 +112,6 @@ ggplot(h_steps_weekday, aes(x= time, y= weekday,
   coord_fixed()+
   theme(plot.title = element_text(hjust = 0.5, vjust = 0.8, size = 15),
         panel.background = element_blank())
- ## Users start their day later on weekends, 
- ## and are most active during 11am-1pm on Saturday, and 5-6pm on Wednesday.
 
 # Grouping users into four types based on average steps.
 daily_average <- activity_sleep %>%
@@ -157,7 +131,6 @@ user_type_sum <- daily_average %>%
   summarize(total = n()) %>% 
   mutate(total_proportion = total/sum(total))
 View(user_type_sum)
-## can create pie chart for this in excel.
 
 # Identifying the usage level of wellness tracker.
 days_usage <- activity_sleep %>% 
@@ -175,8 +148,6 @@ usage_level_sum <- days_usage %>%
   summarize(user_count = n()) %>% 
   mutate(total_proportion = user_count/sum(user_count))
 View(usage_level_sum)
-## can create pie chart for this in excel.
-## 87% of users recorded their daily activity for over 25 days.
 
 # Calculating average hourly steps throughout the day and creating a bar graph.
 avg_h_steps <- h_steps %>% 
@@ -188,6 +159,4 @@ ggplot(data = avg_h_steps)+
   labs(title = "Average Hourly Steps Throughout the Day", x="", y="")+ 
   scale_fill_gradient(low = "yellow2", high = "green2")+
   theme(axis.text.x = element_text(angle = 90))
-## Users are more active between 8am and 7pm.
-## Walk more steps during lunch time from 12pm to 2pm and evenings from 5pm and 7pm.
   
