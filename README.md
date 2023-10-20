@@ -1,7 +1,7 @@
 # DATA ANALYST PORTFOLIO
 ### Welcome to my data analyst portfolio!!! 
 
-Messages.
+Introduction message.
 `key word`
 > "quote"
 
