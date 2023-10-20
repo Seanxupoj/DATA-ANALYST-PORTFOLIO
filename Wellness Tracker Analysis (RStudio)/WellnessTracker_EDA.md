@@ -578,7 +578,7 @@ ggplot(data = subset(activity_sleep, !is.na(totalminutesasleep)),
 There is little to no relationship between **steps** and **sleep
 duration**.
 &nbsp;
-#### 3.3 Separating data_time column into date and time in h_steps data frame
+### 3.3 Separating data_time column into date and time in h_steps data frame
 
 We need to separate datetime value in `h_step` into two columns.
 
@@ -592,7 +592,7 @@ h_steps <- h_steps %>%
     ## 97, 121, 145, 169, 193, 217, 241, 265, 289, 313, 337, 361, 385, 409, 433, 457,
     ## ...].
 &nbsp;
-#### 3.4 Adding a new data frame aggregating average steps by weekday and time
+### 3.4 Adding a new data frame aggregating average steps by weekday and time
 
 To find out when users are the most active, we will create a new data
 frame with `weekday`, `time`, and `average_steps` columns aggregated by
@@ -611,7 +611,7 @@ h_steps_weekday$weekday <- ordered(h_steps_weekday$weekday,
                                            "Sunday"))
 ```
 &nbsp;
-#### 3.5 Visualizaing average activity level during the days of the week with a heat map
+### 3.5 Visualizaing average activity level during the days of the week with a heat map
 
 With the new `h_steps_weekday`, we can visualize the data with a
 heatmap.
@@ -637,7 +637,7 @@ between 4-7pm. While on Saturday, users are more active between
 11am-2pm. Users are the most active at 1pm on Saturday and 5-6pm on
 Wednesday.
 &nbsp;
-#### 3.6 Grouping users into four types
+### 3.6 Grouping users into four types
 
 Here we will categorize users based on their activity level. our
 category criterias will follow the pedometer from this
@@ -655,8 +655,7 @@ daily_average <- activity_sleep %>%
     avg_steps >= 9999 ~ "Very active"
   ))
 ```
-
-   
+  
 Calculating total proportion value of each user type
 
 ``` r
@@ -679,7 +678,7 @@ user_type_sum
 About **50% of the users** are lightly active and below, and **the other half**
 are fairly active and above.
 &nbsp;
-#### 3.7 Categorizing users by the usage level of wellness tracker
+### 3.7 Categorizing users by the usage level of wellness tracker
 
 Now we also want to understand how often users use their tracker. We
 will create a new data frame called `days_usage` which counts how many
@@ -697,7 +696,6 @@ days_usage <- activity_sleep %>%
   ))
 ```
 
-   
 Calculating total proportion value of each usage level
 
 ``` r
@@ -718,7 +716,7 @@ usage_level_sum
 
 About 88% of the users use their tracker for more than 20 days.
 &nbsp;
-#### 3.8 Finding average hourly steps throughout the day and visualizing the values
+### 3.8 Finding average hourly steps throughout the day and visualizing the values
 
 We also want to find out how active users are throughout the day on
 average.
