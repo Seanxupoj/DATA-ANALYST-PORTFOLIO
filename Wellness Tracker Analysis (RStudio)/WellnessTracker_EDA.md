@@ -18,7 +18,7 @@ contain overlapping data, I chose 4 files that cover most of the data to
 work on.
 
 The main **objective** is to analyze smart device fitness data in order
-to identify trends/insights regarding customer’s health, behavior and
+to identify trends and insights regarding customer’s health, behavior and
 smart device usage.
 
 For readability, I have divided this project into **4 phases** as
