@@ -11,9 +11,12 @@ output:
 ```{r global_options}
 knitr::opts_chunk$set(fig.path='Figs/')
 ```
-  
-  
-  
+
+```{r}
+library(knitr)
+opts_chunk$set(dev="png")
+```
+
 ## Project Overview
 
 This exploratory analysis is a part of **Google Data Analytics Professional Certificate** as one of the options for capstone project. I selected this topic mainly because of my personal interest in healthy lifestyle. I'm using RStudio for the entire analysis and R Markdown for reporting the steps taken and the results.   
