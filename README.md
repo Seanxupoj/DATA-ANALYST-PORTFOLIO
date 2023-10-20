@@ -11,8 +11,4 @@ Messages.
 * Bulletpoint
 * Bulletpoint
 
-**Introduction**  
-**Explaination**  
-
-
 This is a link [Link](www.google.com)
