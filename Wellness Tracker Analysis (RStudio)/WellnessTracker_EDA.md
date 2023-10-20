@@ -75,7 +75,7 @@ library(janitor)
 ### 1.2 Importing data files and assigning data names
 
 Having already downloaded the files locally, we can go ahead and read
-each file into an object using `read_csv()`.
+each file into a new data frame using `read_csv()`.
 
 ``` r
 activity <- read_csv("dailyActivity_merged.csv")
