@@ -621,8 +621,7 @@ ggplot(h_steps_weekday, aes(x= time, y= weekday,
                            fill= average_steps)) +
   theme(axis.text.x = element_text(angle = 90))+
   labs(title = "Active Time During the Week", 
-       x = " ", y = " ", fill = "average\nsteps",
-       caption = 'Data Source: Fitabase Data')+
+       x = " ", y = " ", fill = "average\nsteps")+
   scale_fill_gradient(low = "white", high ="green3")+
   geom_tile(color = "white",lwd =.6,linetype =1)+
   coord_fixed()+
