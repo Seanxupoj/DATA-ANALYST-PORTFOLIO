@@ -7,8 +7,8 @@ Supoj Xu (Sean)
 
 This exploratory analysis is a capstone project for *Google Data
 Analytics Professional Course*. I selected this topic mainly because of
-my personal interest in healthy lifestyle. I will use **RStudio** for the
-entire analysis and **R Markdown** for reporting the process and the
+my personal interest in healthy lifestyle. I will use *RStudio* for the
+entire analysis and *R Markdown* for reporting the process and the
 results.
 
 The dataset I will be analyzing is called `Fitbit fitness tracker data`
@@ -24,13 +24,13 @@ smart device usage.
 For readability, I have divided this project into **4 phases** as
 follow:
 
-- **Phase 1: Understanding data.**
+- **Phase 1:** Understanding data.
 
-- **Phase 2: Cleaning data.**
+- **Phase 2:** Cleaning data.
 
-- **Phase 3: Analyzing and visualizing data.**
+- **Phase 3:** Analyzing and visualizing data.
 
-- **Phase 4: Sharing insights from the analysis**
+- **Phase 4:** Sharing insights from the analysis
 
 &nbsp;
 
