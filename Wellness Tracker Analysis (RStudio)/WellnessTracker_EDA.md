@@ -33,9 +33,13 @@ follow:
 - **Phase 3**: Analyzing and visualizing data.
 
 - **Phase 4**: Sharing insights from the analysis
+
 &nbsp;
+
 Let’s get started!
+
 &nbsp;
+
 ## Phase 1: Understanding data
 
 ### 1.1 Loading packages used in this analysis
