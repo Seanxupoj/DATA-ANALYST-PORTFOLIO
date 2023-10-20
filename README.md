@@ -1,7 +1,7 @@
 # DATA ANALYST PORTFOLIO
 ### Welcome to my data analyst portfolio!!! 
 
-Welcome messages!
+Messages.
 `key word`
 > "quote"
 
@@ -12,15 +12,7 @@ Welcome messages!
 * Bulletpoint
 
 **Introduction**  
-  
-*message*
-
 **Explaination**  
-  
-*message*
 
-**Ending**  
-  
-*message*
 
 This is a link [Link](www.google.com)
