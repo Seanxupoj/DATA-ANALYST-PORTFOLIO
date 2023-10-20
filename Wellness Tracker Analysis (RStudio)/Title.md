@@ -1,7 +1,7 @@
 Wellness Tracker Data Analysis
 ================
 Supoj Xu (Sean)
-2023-10-01
+2023-09-30
 
 ## Project Overview
 
@@ -70,7 +70,7 @@ library(janitor)
 
 ### 1.2 Importing data files and assigning data names
 
-As I have already downloaded the files locally, we can go ahead and read
+Having already downloaded the files locally, we can go ahead and read
 each file into an object using `read_csv()`.
 
 ``` r
@@ -538,6 +538,8 @@ ggplot(data = activity_sleep, aes(x = totalsteps, y = calories))+
     ## `geom_smooth()` using method = 'loess' and formula = 'y ~ x'
 
 ![](Title_files/figure-gfm/unnamed-chunk-11-1.png)<!-- --> The
+
+  
 correlation between **steps** and **calories loss**
 
 ``` r
@@ -553,6 +555,8 @@ ggplot(data = subset(activity_sleep, !is.na(totalminutesasleep)),
     ## `geom_smooth()` using method = 'loess' and formula = 'y ~ x'
 
 ![](Title_files/figure-gfm/unnamed-chunk-12-1.png)<!-- --> The
+
+  
 correlation between **steps** and **sleep duration**
 
 #### 3.3 Separating data_time column into date and time in h_steps data frame
