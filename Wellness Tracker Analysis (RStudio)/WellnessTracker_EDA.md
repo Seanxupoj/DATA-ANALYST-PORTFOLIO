@@ -12,9 +12,9 @@ entire analysis and *R Markdown* for reporting the process and the
 results.
 
 The dataset I will be analyzing is called `Fitbit fitness tracker data`
-from a publicly accessible source. There are **18 CSV files** which contains
+from a publicly accessible source. There are **18 CSV files** which contain
 fitness data of users assigned with unique IDs. Because many files
-contain overlapping data, I chose **4 files** that cover most of the data to
+contain overlapping data, I chose 4 files that cover most of the data to
 work on.
 
 The main **objective** is to analyze smart device fitness data in order
@@ -754,34 +754,33 @@ evening time from **5pm to 7pm**.
   that wellness device companies still have a lot to improve in order to
   help users be more active.
 
-- Daily steps taken is **somewhat correlated** with calories loss, while
+- Daily steps taken is **somewhat correlated** with calorie loss, while
   there is **little to no correlation** between steps taken and sleep
   duration. This means that users who actively move around tend to lose
   more calories than those who are inactive.
 
-- Users are overall more active **during lunch time and end of the work
-  hours** in the weekday, while they are more active around **noon time** on
+- Users are overall more active **during lunchtime and end of the work
+  hours** on the weekday, while they are more active around **noon time** on
   Saturday. Wellness tech companies should target and encourage users to
   move around more in **the morning and afternoon time**.
 
 - Most users use the tracker **more than 20 days** out of 31 days, with
   **12%** using it less than 20 days. Wellness companies should continue
-  to implement ways to motivate users to consistently wear the tracking
-  device with things like ranking, game mechanics, rewards, reminders,
+  to implement ways to motivate users to wear the tracking
+  device more consistently, with things like ranking, game mechanics, rewards, reminders,
   and personalized health advice.
 
 - There is not enough data for weight log and heart rate to conduct an
-  analysis on. Wellness companies should also give reasons for the users
+  analysis. Wellness companies should also give reasons for the users
   to enable the functions on their fitness tracking device.
 
 - It is important to note that this data was collected in 2016 before
-  the pandemic in 2020 which have already shifted people’s behavior over
+  the pandemic in 2020 which has already shifted people’s behavior over
   the past years. More up-to-date data would be required to generate
   more accurate insights for today’s consumers.
-
  
 
-**This is end of the analysis.** 
+**This is the end of the analysis.** 
 
 &nbsp;
 
