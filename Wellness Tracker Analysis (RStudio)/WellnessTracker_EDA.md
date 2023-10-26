@@ -1,6 +1,6 @@
 Wellness Tracker Data Analysis
 ================
-Supoj Xu (Sean)  
+By Supoj Xu (Sean)  
 
 2023-09-30
 
