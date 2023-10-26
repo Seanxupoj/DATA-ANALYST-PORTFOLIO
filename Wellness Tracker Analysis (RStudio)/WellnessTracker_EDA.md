@@ -1,6 +1,7 @@
 Wellness Tracker Data Analysis
 ================
-Supoj Xu (Sean)
+Supoj Xu (Sean)  
+
 2023-09-30
 
 ## Project Overview
@@ -12,7 +13,7 @@ entire analysis and *R Markdown* for reporting the process and the
 results.
 
 The dataset I will be analyzing is called `Fitbit fitness tracker data`
-from a publicly accessible source. There are **18 CSV files** which contain
+from a publicly accessible source. There are 18 CSV files which contain
 fitness data of users assigned with unique IDs. Because many files
 contain overlapping data, I chose 4 files that cover most of the data to
 work on.
