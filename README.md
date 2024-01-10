@@ -1,9 +1,9 @@
 # DATA ANALYST PORTFOLIO
-### Welcome to my data analyst portfolio!!! 
+### Welcome to my data analyst portfolio!
 
 Introduction message.
-`key word`
-> "quote"
+`Key word`
+> "Quote"
 
 **Directory**
 * Bulletpoint
