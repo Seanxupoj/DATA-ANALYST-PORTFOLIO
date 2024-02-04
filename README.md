@@ -14,15 +14,31 @@ Welcome to my data analyst portfolio!
    * Tableau
       * Airline Loyalty Program Campaign and Customer Analysis
    * Excel
-      * Airbnb Bangkok Listing and Price Analysis
+      * Airbnb Bangkok Listings and Price Analysis
    * Python
-      * Exploratory Analysis Student Exam Perofrmance 
+      * Exploratory Analysis of Student Performance 
    * RStudio
-      * Exploratory Analysis Fitness Smart Tracker Data
+      * Fitness Smart Tracker Data Exploration
 
+* Education
 
+* Certificates
 
+* Contacts
 
+## Projects
+## Work Experience
+Cloudflare, Singapore
+Athenuem, Shanghai
+Daxue Consulting, Shanghai
+
+## Education
+Michigan State University, Michigan, USA
+General Assembly, Online Instructor-led Bootcamp
+Bangkok University, Bangkok, Thailand
+
+## Certificates
+## Contact
 
 
 
