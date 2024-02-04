@@ -40,9 +40,12 @@ Thank you so much for your time!
 
 
 ## Education
-Michigan State University, Michigan, USA
-General Assembly, Online Instructor-led Bootcamp
-Bangkok University, Bangkok, Thailand
+Michigan State University, Michigan, USA  
+
+General Assembly, Online Instructor-led Bootcamp  
+
+Bangkok University, Bangkok, Thailand  
+
 
 
 
