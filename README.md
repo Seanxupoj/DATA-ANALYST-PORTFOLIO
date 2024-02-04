@@ -1,4 +1,4 @@
-# DATA ANALYST PORTFOLIO - Supoj Xu
+# Data Analyst Portfolio - Supoj Xu
 
 Welcome to my data analyst portfolio!
 
