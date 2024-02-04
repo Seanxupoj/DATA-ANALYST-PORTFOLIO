@@ -28,12 +28,16 @@ Thank you so much for your time!
 
 * [Certificates](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/blob/main/README.md#certificates)
 
-* Education
+* [Education]()
 
 ## Projects
 
+
+
 ## Certificates
 [Google Data Analytics Specialization](https://www.coursera.org/account/accomplishments/professional-cert/DS74EJNRFCVL)
+
+
 
 ## Education
 Michigan State University, Michigan, USA
@@ -59,6 +63,6 @@ MD Reference
 * Bulletpoint
 * Bulletpoint
 
-This is a link [Link](www.google.com)
+This is a [Link](www.google.com)
 
 ===
