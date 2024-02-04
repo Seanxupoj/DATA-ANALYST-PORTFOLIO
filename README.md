@@ -12,7 +12,7 @@ Thank you so much for your time!
 
 * [About](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/blob/main/README.md)
   
-* Data Projects
+* Portfolio Projects
   
    * SQL
       * [Chicago City 311 Service Analysis](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/tree/main/Chicago%20City%20311%20Service%20Analysis%20)
@@ -33,6 +33,7 @@ Thank you so much for your time!
 ## Projects
 
 ## Certificates
+
 
 ## Education
 Michigan State University, Michigan, USA
