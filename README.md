@@ -2,9 +2,9 @@
 
 Welcome to my data analyst portfolio!
 
-My name is Sean, an overseas Chinese born and grew up in Thailand. I am a data analyst with experience using various tools to clean, analyze, visualize, and share data to empower business decisions. I am proficient in SQL, Excel, Tableau, Python/R, and PowerPoint, and have a good understanding of data analytics techniques such as data merging, storytelling with data, report writing, dashboard building, visualization design, descriptive & inferential statistics, and analytical thinking.
+My name is Sean, an overseas Chinese born and grew up in Thailand. I am a data analyst with experience using various tools to clean, analyze, visualize, and share data to empower business decisions. I am proficient in SQL, Excel, Tableau, and Python/R, and have a good understanding of data analytics techniques such as data merging, storytelling with data, process documentation, report writing, dashboard building, visualization design, statistics, and analytical thinking.
 
-I have 2 years of work experience in business development and market research fields across Cloud Security and Information Services industries across Singapore and China. I am educated in the United States and Thailand, and currently completing a part-time MBA international program in Bangkok. 
+I have 2 years of work experience in business development and market research fields across Cloud Security and Information Services industries in Singapore and China. I have obtained a bachelor's degree in the United States and I am currently completing a part-time MBA program in Bangkok.
 
 I hope you find my portfolio informative and interesting. 
 
