@@ -1,8 +1,30 @@
 # DATA ANALYST PORTFOLIO - Supoj Xu
 
-### Welcome to my data analyst portfolio!
+Welcome to my data analyst portfolio!
 
-Introduction message.
+## Table of Contents
+
+* About
+* Data Projects
+   * SQL
+      * 
+   * Tableau
+   * Excel
+   * Python  
+
+
+
+
+
+
+
+
+
+
+===
+
+MD Reference
+
 `Key word`
 > "Quote"
 
@@ -16,11 +38,4 @@ Introduction message.
 
 This is a link [Link](www.google.com)
 
-## Table of Contents
-
-* About
-* Data Projects
-   * SQL
-   * Tableau
-   * Excel
-   * Python  
+===
