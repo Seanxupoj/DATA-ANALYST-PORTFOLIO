@@ -9,16 +9,16 @@ Welcome to my data analyst portfolio!
 * Data Projects
   
    * SQL
-      * Test
-      * Test
-        
+      * Chicago City 311 Service Ticket Analysis
+      * Steam Store Data Cleaning 
    * Tableau
-      * Test
-        
+      * Airline Loyalty Program Campaign and Customer Analysis
    * Excel
-      * Test
-        
-   * Python  
+      * Airbnb Bangkok Listing and Price Analysis
+   * Python
+      * Exploratory Analysis Student Exam Perofrmance 
+   * RStudio
+      * Exploratory Analysis Fitness Smart Tracker Data
 
 
 
