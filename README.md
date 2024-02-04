@@ -30,7 +30,17 @@ In this portfolio, I have included data projects that showcase my technical skil
 
 ## Projects
 
+Chicago City 311 Service Analysis  
 
+Steam Store Data Cleaning  
+
+Airline Loyalty Campaign and Churn Analysis  
+
+Airbnb Bangkok Listings and Price Analysis  
+
+Fitness Tracker Data Exploration  
+
+Student Exam Performance Exploratory Analysis  
 
 ## Certificates
 [Google Data Analytics Specialization](https://www.coursera.org/account/accomplishments/professional-cert/DS74EJNRFCVL)
