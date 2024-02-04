@@ -24,7 +24,7 @@ Thank you so much for your time!
    * RStudio
       * Fitness Tracker Data Exploration
    * Python
-      * Exploratory Analysis of Student Performance 
+      * Student Exam Performance Exploratory Analysis
 
 * Certificates
 
