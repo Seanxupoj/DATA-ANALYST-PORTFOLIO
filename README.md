@@ -10,7 +10,7 @@ Thank you so much for your time!
 
 ## Table of Contents
 
-* About
+* [About](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/blob/main/README.md)
   
 * Data Projects
   
