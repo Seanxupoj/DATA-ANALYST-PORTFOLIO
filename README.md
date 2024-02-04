@@ -6,6 +6,8 @@ My name is Sean, an overseas Chinese born and grew up in Bangkok, Thailand. I am
 
 I have 2 years of work experience in business development and market research fields across Cloud Security and Information Services industries across Singapore and China.
 
+I hope you find my portfolio informative. Thank you for your time!
+
 ## Table of Contents
 
 * About
