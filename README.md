@@ -17,16 +17,16 @@ Thank you so much for your time!
 * Data Projects
   
    * SQL
-      * Chicago City 311 Service Ticket Analysis
+      * Chicago City 311 Service Analysis
       * Steam Store Data Cleaning 
    * Tableau
       * Airline Loyalty Program Campaign and Customer Analysis
    * Excel
       * Airbnb Bangkok Listings and Price Analysis
+   * RStudio
+      * Fitness Tracker Data Exploration
    * Python
       * Exploratory Analysis of Student Performance 
-   * RStudio
-      * Fitness Smart Tracker Data Exploration
 
 * Education
 
