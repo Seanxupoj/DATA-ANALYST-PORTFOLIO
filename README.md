@@ -6,7 +6,7 @@ My name is Sean, an overseas Chinese born and grew up in Bangkok, Thailand. I am
 
 I have 2 years of work experience in business development and market research fields across Cloud Security and Information Services industries across Singapore and China. I am educated in the United States and Thailand, and currently completing a part-time MBA international program in Bangkok. 
 
-I hope you find my portfolio informative. Thank you for your time!
+I hope you find my portfolio informative and interesting. Thank you for your time!
 
 ## Table of Contents
 
