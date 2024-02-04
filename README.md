@@ -22,7 +22,7 @@ Thank you so much for your time!
    * Excel
       * Airbnb Bangkok Listings and Price Analysis
    * RStudio
-      * Fitness Tracker Data Exploration
+      * [Fitness Tracker Data Exploration](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/blob/main/Fitness%20Tracker%20Data%20Exploration/FitnessTracker_EDA.md)
    * Python
       * Student Exam Performance Exploratory Analysis
 
