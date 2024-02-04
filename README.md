@@ -16,11 +16,11 @@ Thank you so much for your time!
   
    * SQL
       * [Chicago City 311 Service Analysis]
-      * Steam Store Data Cleaning 
+      * Steam Store Data Cleaning (coming soon) 
    * Tableau
-      * Airline Loyalty Program Campaign and Customer Analysis
+      * [Airline Loyalty Program Campaign and Customer Analysis]
    * Excel
-      * Airbnb Bangkok Listings and Price Analysis
+      * [Airbnb Bangkok Listings and Price Analysis](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/tree/main/Airbnb%20Bangkok%20Listings%20and%20Price%20Analysis%20)
    * RStudio
       * [Fitness Tracker Data Exploration](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/blob/main/Fitness%20Tracker%20Data%20Exploration/FitnessTracker_EDA.md)
    * Python
