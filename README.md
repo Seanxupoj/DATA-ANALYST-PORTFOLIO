@@ -12,3 +12,5 @@ Introduction message.
 * Bulletpoint
 
 This is a link [Link](www.google.com)
+
+# Table of Contents
