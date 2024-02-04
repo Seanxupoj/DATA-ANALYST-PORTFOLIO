@@ -20,4 +20,7 @@ This is a link [Link](www.google.com)
 
 * About
 * Data Projects
-  * aasd 
+   * SQL
+   * Tableau
+   * Excel
+   * Python  
