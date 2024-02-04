@@ -15,7 +15,7 @@ Thank you so much for your time!
 * Data Projects
   
    * SQL
-      * [Chicago City 311 Service Analysis]
+      * [Chicago City 311 Service Analysis](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/tree/main/Chicago%20City%20311%20Service%20Analysis%20)
       * Steam Store Data Cleaning (coming soon) 
    * Tableau
       * [Airline Loyalty Campaign and Churn Analysis]()
