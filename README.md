@@ -18,7 +18,7 @@ Thank you so much for your time!
       * [Chicago City 311 Service Analysis]
       * Steam Store Data Cleaning (coming soon) 
    * Tableau
-      * [Airline Loyalty Program Campaign and Customer Analysis]
+      * [Airline Loyalty Campaign and Churn Analysis]()
    * Excel
       * [Airbnb Bangkok Listings and Price Analysis](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/tree/main/Airbnb%20Bangkok%20Listings%20and%20Price%20Analysis%20)
    * RStudio
