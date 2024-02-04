@@ -33,7 +33,7 @@ Thank you so much for your time!
 ## Projects
 
 ## Certificates
-
+[Google Data Analytics Specialization](https://www.coursera.org/account/accomplishments/professional-cert/DS74EJNRFCVL)
 
 ## Education
 Michigan State University, Michigan, USA
