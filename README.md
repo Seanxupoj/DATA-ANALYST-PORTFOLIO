@@ -6,9 +6,9 @@ My name is Sean, an overseas Chinese born and grew up in Thailand. I am a data a
 
 I have 2 years of work experience in business development and market research fields across Cloud Security and Information Services industries in Singapore and China. I have obtained a bachelor's degree in the United States and I am currently completing a part-time MBA program in Bangkok.
 
-I hope you find my portfolio informative and interesting. 
+I am confident that my data analytics skills and work experience make me a unique and qualified candidate for data analyst role. I hope you find my portfolio informative, and I welcome any opportunity to discuss further with you.
 
-Thank you so much for your time and please find more information below:
+Thank you so much for your time!
 
 ## Table of Contents
 
