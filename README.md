@@ -6,6 +6,8 @@ Introduction message.
 `Key word`
 > "Quote"
 
+*Italic*
+
 **Directory**
 * Bulletpoint
 * Bulletpoint
