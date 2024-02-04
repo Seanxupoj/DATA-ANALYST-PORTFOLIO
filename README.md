@@ -7,9 +7,12 @@ Welcome to my data analyst portfolio!
 * About
 * Data Projects
    * SQL
-      * 
+      * Test
+      * Test
    * Tableau
+      * Test
    * Excel
+      * Test
    * Python  
 
 
