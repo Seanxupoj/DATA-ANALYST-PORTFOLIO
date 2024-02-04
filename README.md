@@ -26,7 +26,7 @@ Thank you so much for your time!
    * Python
       * Student Exam Performance Exploratory Analysis
 
-* Certificates
+* [Certificates](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/blob/main/README.md#certificates)
 
 * Education
 
