@@ -5,14 +5,19 @@ Welcome to my data analyst portfolio!
 ## Table of Contents
 
 * About
+  
 * Data Projects
+  
    * SQL
       * Test
       * Test
+        
    * Tableau
       * Test
+        
    * Excel
       * Test
+        
    * Python  
 
 
