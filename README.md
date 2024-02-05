@@ -40,7 +40,7 @@ Fitness Tracker Data Exploration
 
 ## Certificates
 
-General Assembly Data Analytics Bootcamp (2024) (Online Intructor-Led Training by General Assembly)
+General Assembly Data Analytics Bootcamp (2024) (Intructor-Led Training by General Assembly)
 
 [Google Data Analytics Specialization](https://www.coursera.org/account/accomplishments/professional-cert/DS74EJNRFCVL) (2023) (Coursera - Google)
 
@@ -56,7 +56,7 @@ Bangkok University, Bangkok, Thailand: MBA International Program (Part-Time), 20
 
 ===
 
-MD Reference
+Markdown Reference
 
 `Key word`
 > "Quote"
