@@ -30,13 +30,13 @@ In this portfolio, I have included data projects that showcase my technical skil
 
 ## Projects
 
-Chicago City 311 Service Analysis  
+#### Chicago City 311 Service Analysis  
 
-Airline Loyalty Campaign and Churn Analysis  
+#### Airline Loyalty Campaign and Churn Analysis  
 
-Airbnb Bangkok Listings and Price Analysis  
+#### Airbnb Bangkok Listings and Price Analysis  
 
-Fitness Tracker Data Exploration  
+#### Fitness Tracker Data Exploration  
 
 ## Certificates
 
