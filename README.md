@@ -20,7 +20,7 @@ In this portfolio, I have included data projects that showcase my technical skil
    * Excel
       * [Airbnb Bangkok Listings and Price Analysis](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/tree/main/Airbnb%20Bangkok%20Listings%20and%20Price%20Analysis%20)
    * RStudio
-      * [Fitness Tracker Data Exploration]([https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/blob/main/Fitness%20Tracker%20Data%20Exploration/FitnessTracker_EDA.md](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/tree/main/Fitness%20Tracker%20Data%20Exploration))
+      * [Fitness Tracker Data Exploration](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/blob/main/Fitness%20Tracker%20Data%20Exploration/FitnessTracker_EDA.md)
    * Python
       * Student Exam Performance Exploratory Analysis (in process)
 
