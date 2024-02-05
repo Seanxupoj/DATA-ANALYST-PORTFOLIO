@@ -29,14 +29,19 @@ In this portfolio, I have included data projects that showcase my technical skil
 * [Education](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/tree/main/Airline%20Loyalty%20Campaign%20and%20Churn%20Analysis)
 
 ## Projects
+In this section you can find a brief overview of my projects.
 
 #### Chicago City 311 Service Analysis  
+For this project, 
 
 #### Airline Loyalty Campaign and Churn Analysis  
+For this project, 
 
 #### Airbnb Bangkok Listings and Price Analysis  
+For this project, 
 
 #### Fitness Tracker Data Exploration  
+For this project, 
 
 ## Certificates
 
@@ -49,6 +54,7 @@ General Assembly Data Analytics Bootcamp (2024) (Intructor-Led Training by Gener
 [Intermediate SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/dd4417e9561d77352eb579887da4dea7e4083ae9) (2023) (DataCamp)
 
 ## Education
+
 Michigan State University, Michigan, USA: Bachelor's Degree in Supply Chain Management, 2015-2019.
 
 Bangkok University, Bangkok, Thailand: MBA International Program (Part-Time), 2023-Present.
