@@ -7,9 +7,9 @@ By Supoj Xu (Sean)
 ## Project Overview
 
 This exploratory analysis is a capstone project for *Google Data
-Analytics Professional Course*. I selected this topic mainly because of
-my personal interest in healthy lifestyle. I will use *RStudio* for the
-entire analysis and *R Markdown* for reporting the process and the
+Analytics Professional Course*. I selected this topic because of
+my personal interest in healthy lifestyle and health data. In this project, I have used *RStudio* for the
+entire exploration and *R Markdown* for reporting the process and the
 results.
 
 The dataset I will be analyzing is called `Fitbit fitness tracker data`
