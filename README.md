@@ -1,6 +1,6 @@
 # Data Analyst Portfolio - Supoj Xu
 
-Welcome to my data analyst portfolio!
+Welcome to my portfolio!
 
 My name is Sean, I am a data analyst with experience using various tools to clean, analyze, and visualize data to empower business decisions. I am proficient in SQL, Excel, Tableau, and Python/R, and have a good understanding of data analytics techniques including data merging, process documentation, dashboard building, charts & slides deck design, statistics, and storytelling with data.
 
