@@ -1,8 +1,7 @@
-Wellness Tracker Data Analysis
+Fitness Tracker Data Exploration Using RStudio
 ================
 By Supoj Xu (Sean)  
 
-2023-09-30
 
 ## Project Overview
 
