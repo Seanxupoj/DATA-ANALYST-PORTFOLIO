@@ -10,7 +10,7 @@ In this portfolio, I have included data projects that showcase my technical skil
 
 * [About](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/blob/main/README.md)
   
-* Portfolio Projects
+* [Portfolio Projects](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO?tab=readme-ov-file#projects)
   
    * SQL
       * [Chicago City 311 Service Analysis](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/tree/main/Chicago%20City%20311%20Service%20Analysis%20)
