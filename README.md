@@ -46,6 +46,7 @@ General Assembly Data Analytics Bootcamp (2024) (Online Intructor-Led Training b
 
 [Data Analysis with Python](https://www.coursera.org/account/accomplishments/certificate/356QEGJDH9V3) (2023) (Coursera - IBM)
 
+[Intermediate SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/dd4417e9561d77352eb579887da4dea7e4083ae9) (2023) (DataCamp)
 
 ## Education
 Michigan State University, Michigan, USA: Bachelor's Degree in Supply Chain Management, 2015-2019.
