@@ -43,16 +43,17 @@ Fitness Tracker Data Exploration
 Student Exam Performance Exploratory Analysis  
 
 ## Certificates
+
+General Assembly Data Analytics Bootcamp (Instructor-Led)  
+
 [Google Data Analytics Specialization](https://www.coursera.org/account/accomplishments/professional-cert/DS74EJNRFCVL)
 
 
 
 ## Education
-Michigan State University, Michigan, USA  
+Michigan State University, Michigan, USA: Bachelor's Supply Chain Management.
 
-General Assembly, Online Instructor-led Bootcamp  
-
-Bangkok University, Bangkok, Thailand  
+Bangkok University, Bangkok, Thailand: MBA International Program.  
 
 
 
