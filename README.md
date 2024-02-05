@@ -2,7 +2,7 @@
 
 Welcome to my portfolio!
 
-My name is Sean, I am a data analyst with experience using various tools to clean, analyze, and visualize data to empower business decisions. I am proficient in SQL, Excel, Tableau, and Python/R, and have a good understanding of data analytics techniques including data wrangling, charts & slides design, dashboard building, statistical analysis, process documenting, and storytelling with data.
+My name is Sean, I am a data analyst with experience using various tools to clean, analyze, and visualize data to empower business decisions. I am proficient in SQL, Excel, Tableau, and Python/R, and have a good understanding of data analytics techniques including data wrangling, data merging, charts & slides design, dashboard building, statistical analysis, process documenting, and storytelling with data.
 
 In this portfolio, I have included data projects that showcase my technical skills as well as analytical thinking. You will find documents, presentation slides, and dashboards created using various tools such as PostgreSQL, Tableau, Excel, Jupyter, and RStudio. These projects demonstrate my ability to organize, analyze, and present data in a clear and visually appealing way, making it easy to understand the insights and take action.
 
