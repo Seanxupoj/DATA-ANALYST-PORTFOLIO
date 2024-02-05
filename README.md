@@ -29,10 +29,10 @@ In this portfolio, I have included data projects that showcase my technical skil
 * [Education](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/tree/main/Airline%20Loyalty%20Campaign%20and%20Churn%20Analysis)
 
 ## Projects
-In this section you can find a brief overview of my projects.
+In this section you can find a brief overview of my listed projects.
 
 #### Chicago City 311 Service Analysis  
-For this project, 
+For this project, I . The skills showcased in this project are 
 
 #### Airline Loyalty Campaign and Churn Analysis  
 For this project, 
