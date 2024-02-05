@@ -20,7 +20,7 @@ In this portfolio, I have included data projects that showcase my technical skil
    * Excel
       * [Airbnb Bangkok Listings and Price Analysis](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/tree/main/Airbnb%20Bangkok%20Listings%20and%20Price%20Analysis%20)
    * RStudio
-      * [Fitness Tracker Data Exploration](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/blob/main/Fitness%20Tracker%20Data%20Exploration/FitnessTracker_EDA.md)
+      * [Fitness Tracker Data Exploration]([https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/blob/main/Fitness%20Tracker%20Data%20Exploration/FitnessTracker_EDA.md](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/tree/main/Fitness%20Tracker%20Data%20Exploration))
    * Python
       * Student Exam Performance Exploratory Analysis (in process)
 
@@ -32,32 +32,23 @@ In this portfolio, I have included data projects that showcase my technical skil
 
 Chicago City 311 Service Analysis  
 
-Steam Store Data Cleaning  
-
 Airline Loyalty Campaign and Churn Analysis  
 
 Airbnb Bangkok Listings and Price Analysis  
 
 Fitness Tracker Data Exploration  
 
-Student Exam Performance Exploratory Analysis  
-
 ## Certificates
 
-General Assembly Data Analytics Bootcamp (Instructor-Led)  
+General Assembly Data Analytics Bootcamp (2024)(Online Intructor-Led Training)
 
-[Google Data Analytics Specialization](https://www.coursera.org/account/accomplishments/professional-cert/DS74EJNRFCVL)
-
-
-
+[Google Data Analytics Specialization](https://www.coursera.org/account/accomplishments/professional-cert/DS74EJNRFCVL) (2023) (Coursera - Google)
 
 
 ## Education
-Michigan State University, Michigan, USA: Bachelor's Degree in Supply Chain Management (2015-2019)
+Michigan State University, Michigan, USA: Bachelor's Degree in Supply Chain Management, 2015-2019.
 
-Bangkok University, Bangkok, Thailand: MBA International Program (Part-Time) (2023-Present)
-
-
+Bangkok University, Bangkok, Thailand: MBA International Program (Part-Time), 2023-Present.
 
 
 ===
