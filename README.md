@@ -40,9 +40,11 @@ Fitness Tracker Data Exploration
 
 ## Certificates
 
-General Assembly Data Analytics Bootcamp (2024)(Online Intructor-Led Training)
+General Assembly Data Analytics Bootcamp (2024) (Online Intructor-Led Training by General Assembly)
 
 [Google Data Analytics Specialization](https://www.coursera.org/account/accomplishments/professional-cert/DS74EJNRFCVL) (2023) (Coursera - Google)
+
+[Data Analysis with Python](https://www.coursera.org/account/accomplishments/certificate/356QEGJDH9V3) (2023) (Coursera - IBM)
 
 
 ## Education
