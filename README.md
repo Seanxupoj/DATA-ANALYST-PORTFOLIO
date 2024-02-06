@@ -32,14 +32,18 @@ In this portfolio, I have included data projects that showcase my technical skil
 In this section you can find a brief overview of my listed projects.
 
 #### Chicago City 311 Service Analysis  
-For this project, I conducted a data analysis on 2.8 million rows of data with a combination of SQL and excel to identify focused areas in order to help Chicago's DSS agency improve their ticket resolution time. I defined a priority quadrant based on two selected metrics and cross-validated the findings with data from New York City. In the end, I shared relevant insights and suggestions in presentation slides. The skills showcased in this project are null handling, data validation, JOINs & UNION clauses, aggregation, filtering, subqueries, CTEs, conditions, pivot table, pivot charts, and presentation.
+For this project, I conducted a data analysis on 2.8 million rows of data with a combination of SQL and excel to identify focused areas in order to help Chicago's DSS agency improve their ticket resolution time. I defined a priority quadrant based on two selected metrics and cross-validated the findings with data from New York City. In the end, I shared relevant insights and suggestions in presentation slides.  
+
+The skills showcased in this project are null handling, data validation, JOINs & UNION clauses, aggregation, filtering, subqueries, CTEs, conditions, pivot table, pivot charts, and presentation.
 
 #### Airline Loyalty Campaign and Churn Analysis  
-For this project, 
+For this project,  
+
 The skills showcased in this project are 
 
 #### Airbnb Bangkok Listings and Price Analysis  
-For this project, 
+For this project,  
+
 The skills showcased in this project are data cleaning (i.e.: nulls & duplicates handling, data correction, outliers detection), XLOOKUP referencing, categorizing, descriptive statistics, correlation, pivot tables, conditional formating, process documenting, charts building, and presentation.
 
 #### Fitness Tracker Data Exploration  
