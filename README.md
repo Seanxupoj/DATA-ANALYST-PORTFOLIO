@@ -26,7 +26,7 @@ In this portfolio, I have included data projects that showcase my technical skil
 
 * [Certificates](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO?tab=readme-ov-file#certificates)
 
-* [Education](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/tree/main/Airline%20Loyalty%20Campaign%20and%20Churn%20Analysis)
+* [Education](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO?tab=readme-ov-file#education)
 
 ## Projects
 In this section you can find brief summary of the listed projects for your quick comprehension. For more details, please check out the documents in each respective folder.
