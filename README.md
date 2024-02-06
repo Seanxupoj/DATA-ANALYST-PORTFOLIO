@@ -42,7 +42,7 @@ For this project,
 The skills showcased in this project are 
 
 #### Airbnb Bangkok Listings and Price Analysis  
-For this project, I cleaned and analyzed data which was scraped directly from Airbnb platform. The data had many issues but it was large enough to be useful after cleaning. My main objective was to find any useful insights that can help first-time Airbnb hosts in Bangkok determine best pricing and listing practices to maximize their long-term revenue based on various factors such as room type, location, # bedrooms, # bathrooms, minimum nights, etc. 
+For this project, I cleaned and analyzed data which was scraped directly from Airbnb platform. The data had many issues to be tackled during the cleaning process. My main objective was to find any useful insights that can help first-time Airbnb hosts in Bangkok determine best pricing and listing practices to maximize their long-term revenue based on various factors such as room type, location, # bedrooms, # bathrooms, minimum nights, etc. 
 
 The skills showcased in this project are data cleaning (e.g.: nulls & duplicates handling, data correction, outliers detection), string extraction, XLOOKUP referencing, categorizing, descriptive statistics, correlation, pivot tables, conditional formating, process documenting, charts building, and presentation.
 
