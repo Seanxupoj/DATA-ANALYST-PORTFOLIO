@@ -24,7 +24,7 @@ In this portfolio, I have included data projects that showcase my technical skil
    * Python
       * Student Exam Performance Exploratory Analysis (in process)
 
-* [Certificates]([https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/blob/main/README.md#certificates](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO?tab=readme-ov-file#certificates))
+* [Certificates](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO?tab=readme-ov-file#certificates)
 
 * [Education](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/tree/main/Airline%20Loyalty%20Campaign%20and%20Churn%20Analysis)
 
