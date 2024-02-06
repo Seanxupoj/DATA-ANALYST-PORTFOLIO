@@ -29,7 +29,7 @@ In this portfolio, I have included data projects that showcase my technical skil
 * [Education](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/tree/main/Airline%20Loyalty%20Campaign%20and%20Churn%20Analysis)
 
 ## Projects
-In this section you can find brief summary of the listed projects for your quick comprehension. You can find more details in their respective folders.
+In this section you can find brief summary of the listed projects for your quick comprehension. For more details, please check out the documents in each respective folder.
 
 #### Chicago City 311 Service Analysis  
 For this project, I conducted a data analysis on 2.8 million rows of data with a combination of SQL and excel to identify focused areas in order to help Chicago's DSS agency improve their ticket resolution time. I defined a priority quadrant based on two selected metrics and cross-validated the findings with data from New York City. In the end, I shared relevant insights and suggestions in presentation slides.  
