@@ -17,6 +17,7 @@ In this portfolio, I have included data projects that showcase my technical skil
       * Steam Store Data Cleaning (in process) 
    * Tableau
       * [Airline Loyalty Campaign and Churn Analysis](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/tree/main/Airline%20Loyalty%20Campaign%20and%20Churn%20Analysis)
+      * Sales Dashboard (in process)
    * Excel
       * [Airbnb Bangkok Listings and Price Analysis](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/tree/main/Airbnb%20Bangkok%20Listings%20and%20Price%20Analysis%20)
    * RStudio
