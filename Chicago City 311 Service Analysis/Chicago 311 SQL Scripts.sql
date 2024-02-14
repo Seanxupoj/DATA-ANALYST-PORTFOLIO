@@ -1,7 +1,6 @@
 /*
-Title: Project 2 Chicago 311 Queries
-Date: December 2023
-By: Sean Xu
+Title: Project Chicago 311 Queries
+By: Supoj Xu (Sean)
 */
 
 -- This query returns the total number of unique tickets from the 3 tables (2018, 2019, and 2020).
