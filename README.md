@@ -53,7 +53,7 @@ The skills showcased in this project are
 
 ## Certificates
 
-General Assembly Data Analytics Bootcamp (2024) (Intructor-Led Training by General Assembly)
+[General Assembly Data Analytics Bootcamp](https://www.linkedin.com/in/supoj-sean-xu-871903152/overlay/experience/2290696317/multiple-media-viewer/?profileId=ACoAACTMJRUBI7SGyNo72x4hVGqdn9ej-ZK1wGU&treasuryMediaId=1707876711295) (2024) (Intructor-Led Training by General Assembly)
 
 [Google Data Analytics Specialization](https://www.coursera.org/account/accomplishments/professional-cert/DS74EJNRFCVL) (2023) (Coursera - Google)
 
