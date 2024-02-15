@@ -38,7 +38,7 @@ For this project, I conducted an analysis on 2.8 million rows of data using a co
 The skills showcased in this project are data querying, data validation, JOINs & UNION clauses, aggregation, datetime convertion, filtering, subqueries, CTEs, conditions, PivotTables, Pivot Charts, and presentation.
 
 #### Airline Loyalty Campaign and Churn Analysis  
-For this project, I analyzed two large data tables containg data on loyalty program enrollment & cancellation details, customer information, and flight activities. My objectives were to help the airline capture the impact of their recent promotional campaign, find patterns among churn members, and recommend the next actions. After cexploration and analysis, I visualized the most important findings about the impact of the campaign, the potential problem, and churn patterns with appropriate charts, leveraging pre-attentive attributes for effective visuals. In the end, I presented the findings and suggestions in a series of story points.  
+For this project, I analyzed two large data tables containg data on loyalty program enrollment & cancellation details, customer information, and flight activities. My objectives were to help the airline capture the impact of their recent promotional campaign, find patterns among churn members, and recommend the next actions. After exploration and analysis, I visualized the most important findings about the impact of the campaign, the potential problem, and churn patterns with appropriate charts, leveraging pre-attentive attributes for effective visuals. In the end, I presented the findings and suggestions in a series of story points.  
 
 The skills showcased in this project are data connections, calculated fields, sets, groups, binning, filters, dashboard, story, and presentation.
 
@@ -48,9 +48,15 @@ For this project, I cleaned and analyzed data which was scraped directly from Ai
 The skills showcased in this project are data cleaning (e.g.: nulls & duplicates handling, data correction, outliers detection), string extraction, XLOOKUP referencing, categorizing, descriptive statistics, correlation, PivotTables, conditional formating, process documenting, charts building, and presentation.
 
 #### Fitness Tracker Data Exploration  
-For this project,  
+In this project, I conducted a data exploration Fitbit fitness tracker data. There are 4 CSV files which contain fitness data of users such as steps, calories loss, minutes sleep, etc. The main objective is to analyze smart device fitness data in order to identify trends and insights regarding customer’s health, behavior and smart device usage.
 
-The skills showcased in this project are 
+
+R Markdown for reporting the process and the results.
+
+
+For readability, I have divided this project into 4 phases as follow:
+
+The skills showcased in this project are data importing, assaying, data visualization, 
 
 ## Certificates
 
