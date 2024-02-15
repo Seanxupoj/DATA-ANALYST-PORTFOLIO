@@ -43,7 +43,7 @@ For this project, I analyzed two large data tables containg data on loyalty prog
 The skills showcased in this project are data connections, calculated fields, sets, groups, binning, filters, dashboard, story, and presentation.
 
 #### Airbnb Bangkok Listings and Price Analysis  
-For this project, I cleaned and analyzed data which was scraped directly from Airbnb platform. The data contained over 70 columns and had many format issues to be addressed during the cleaning process. My main objective was to find any useful insights that can help first-time Airbnb hosts in Bangkok determine best pricing and listing practices to maximize their long-term revenue based on a variety of dimemsions such as room type, location, number of bedrooms, minimum nights, etc. In the end, I presented the relevant insights in a presentation format.
+For this project, I cleaned and analyzed data which was scraped directly from Airbnb platform. The data contained over 70 columns and had many formatting issues which were addressed during the cleaning process. My main objective was to find any useful insights that can help first-time Airbnb hosts in Bangkok determine best pricing and listing practices to maximize their long-term revenue based on a variety of dimemsions such as room type, location, number of bedrooms, minimum nights, etc. In the end, I presented the relevant insights in a presentation format.
 
 The skills showcased in this project are data cleaning (e.g.: nulls & duplicates handling, data correction, outliers detection), string extraction, XLOOKUP referencing, categorizing, descriptive statistics, correlation, PivotTables, conditional formating, process documenting, charts building, and presentation.
 
