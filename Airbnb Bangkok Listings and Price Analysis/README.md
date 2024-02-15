@@ -1,4 +1,4 @@
-# Project title
+# Airbnb Bangkok Listings and Price Analysis
 
 **Description:** This project analyzes 2.8 million rows of data using SQL and Excel to help a government agency improve service ticket resolution time by understanding where to focus their resources on. After exploring the data, I create a priority quadrant based on two selected metrics, plot the data against the quadrant, cross-validate the findings with data from New York City, and deep-dive to find patterns in location fields.
 
