@@ -1,10 +1,10 @@
-# Project title
+# Airline Loyalty Campaign and Churn Analysis
 
 **Description:** Text
 
-**Skills:** Text
+**Data tools:** Tableau.
 
-**Data tools:** Text
+**Skills:** Text
 
 **Outputs:** 
 
