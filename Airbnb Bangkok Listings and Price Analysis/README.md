@@ -7,9 +7,11 @@
 **Skills:** Data querying, data validation, JOINs & UNION clauses, aggregation, datetime convertion, filtering, subqueries, CTEs, conditions, PivotTables, Pivot Charts, and presentation.
 
 **Outputs:**  
-- SQL file 
+- SQL scripts with notes 
 - Excel workbook
+- Presentation slides
 
 ## Datasets
+
 
 ## Acknowledgements
