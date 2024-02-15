@@ -32,22 +32,22 @@ In this portfolio, I have included data projects that showcase my technical skil
 ## Projects
 In this section you can find brief summary of the listed projects for quick comprehension. For more details, please check out the documents in each respective folder.
 
-#### Chicago City 311 Service Analysis  
+- #### Chicago City 311 Service Analysis  
 For this project, I conducted an analysis on 2.8 million rows of data using a combination of SQL and Excel. The goal was to help a public agency in Chicago improve ticket resolution time by understanding where they should to focus their resources on. After exploring the data, I created a priority quadrant based on two selected metrics, plotted the data against the quadrant, cross-validated the findings with data from New York City, and deep-dived to find patterns in location fields. In the end, I shared the key insights, suggestions, and remarks in a presentation.  
 
 The skills showcased in this project are data querying, data validation, JOINs & UNION clauses, aggregation, datetime convertion, filtering, subqueries, CTEs, conditions, PivotTables, Pivot Charts, and presentation.
 
-#### Airline Loyalty Campaign and Churn Analysis  
+- #### Airline Loyalty Campaign and Churn Analysis  
 For this project, I analyzed two large data tables containg data on loyalty program enrollment & cancellation details, customer information, and flight activities. My objectives were to help the airline capture the impact of their recent promotional campaign, find patterns among churn members, and recommend the next actions. After exploration and analysis, I visualized the most important findings about the impact of the campaign, the potential problem, and churn patterns with appropriate charts, leveraging pre-attentive attributes for effective visuals. In the end, I presented the findings and suggestions in a series of story points.  
 
 The skills showcased in this project are data connections, calculated fields, sets, groups, binning, filters, dashboard, story, and presentation.
 
-#### Airbnb Bangkok Listings and Price Analysis  
+- #### Airbnb Bangkok Listings and Price Analysis  
 For this project, I cleaned and analyzed data which was scraped directly from Airbnb platform. The data contained over 70 columns and had many formatting issues which were addressed during the cleaning process. My main objective was to find any useful insights that can help first-time Airbnb hosts in Bangkok determine best pricing and listing practices to maximize their long-term revenue based on a variety of dimemsions such as room type, location, number of bedrooms, minimum nights, etc. In the end, I presented the relevant insights in a presentation format.
 
 The skills showcased in this project are data cleaning (e.g.: nulls & duplicates handling, data correction, outliers detection), string extraction, XLOOKUP referencing, categorizing, descriptive statistics, correlation, PivotTables, conditional formating, process documenting, charts building, and presentation.
 
-#### Fitness Tracker Data Exploration  
+- #### Fitness Tracker Data Exploration  
 In this project, I conducted a data exploration Fitbit fitness tracker data. There are 4 CSV files which contain fitness data of users such as steps, calories loss, minutes sleep, etc. The main objective was to identify trends and insights regarding customer’s health, behavior and smart device usage that could be useful for health tracker companies. I divided this project into 4 phases and document the process along with the results in markdown.
 
 The skills showcased in this project are data importing, assaying, data visualization, 
