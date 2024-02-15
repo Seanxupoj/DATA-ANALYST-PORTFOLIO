@@ -33,7 +33,7 @@ In this portfolio, I have included data projects that showcase my technical skil
 In this section you can find brief summary of the listed projects for your quick comprehension. For more details, please check out the documents in each respective folder.
 
 #### Chicago City 311 Service Analysis  
-For this project, I conducted a data analysis on 2.8 million rows of data using a combination of SQL and excel to identify focused areas in order to help Chicago's DSS agency improve their ticket resolution time. After exploring the data, I created a priority quadrant based on two selected metrics and cross-validated the findings with data from New York City. In the end, I shared key relevant insights, suggestions, and remarks in a presentation form.  
+For this project, I conducted an analysis on 2.8 million rows of data using a combination of SQL and excel to help Chicago's DSS agency identify focused areas and improve ticket resolution time. After exploring the data, I created a priority quadrant based on two selected metrics and cross-validated the findings with data from New York City. In the end, I shared key relevant insights, suggestions, and remarks in a presentation form.  
 
 The skills showcased in this project are data querying, data validation, JOINs & UNION clauses, aggregation, filtering, subqueries, CTEs, conditions, pivot tables, pivot charts, and presentation.
 
