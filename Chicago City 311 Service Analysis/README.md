@@ -1,12 +1,20 @@
-# Project title
+# Chicago City 311 Service Analysis
 
-**Description:** Text
+**Description:** This project analyzes 2.8 million rows of data using SQL and Excel to help a government agency improve service ticket resolution time by understanding where to focus their resources on. After exploring the data, I create a priority quadrant based on two selected metrics, plot the data against the quadrant, cross-validate the findings with data from New York City, and deep-dive to find patterns in location fields.
 
-**Skills:** Text
+**Data tools:** PostgreSQL and Excel
 
-**Data tools:** Text
+**Skills:** Data querying, data validation, JOINs & UNION clauses, aggregation, datetime convertion, filtering, subqueries, CTEs, conditions, PivotTables, Pivot Charts, and presentation.
 
-**Outputs:** 
+**Outputs:**  
+- SQL scripts with notes 
+- Excel workbook
+- Presentation slides
+
+## Datasets
+
+
+## Acknowledgements
 
 ## Datasets
 
