@@ -33,7 +33,7 @@ In this portfolio, I have included data projects that showcase my technical skil
 In this section you can find brief summary of the listed projects for quick comprehension. For more details, please check out the documents in each respective folder.
 
 #### Chicago City 311 Service Analysis  
-For this project, I conducted an analysis on 2.8 million rows of data using a combination of SQL and Excel. MY goal was to help a public agency in Chicago improve ticket resolution time by understanding where they need to focus their resources on first. After exploring the data, I created a priority quadrant based on two metrics, plotted the data against the quadrant, cross-validated the findings with data from New York City, and deep-dived to find more patterns especially in location fields. In the end, I shared key insights, suggestions, and remarks in a presentation.  
+For this project, I conducted an analysis on 2.8 million rows of data using a combination of SQL and Excel. The goal was to help a public agency in Chicago improve ticket resolution time by understanding where they need to focus their resources on first. After exploring the data, I created a priority quadrant based on two metrics, plotted the data against the quadrant, cross-validated the findings with data from New York City, and deep-dived to find more patterns especially in location fields. In the end, I shared key insights, suggestions, and remarks in a presentation.  
 
 The skills showcased in this project are data querying, data validation, JOINs & UNION clauses, aggregation, datetime convertion, filtering, subqueries, CTEs, conditions, PivotTables, Pivot Charts, and presentation.
 
@@ -43,9 +43,9 @@ For this project,
 The skills showcased in this project are 
 
 #### Airbnb Bangkok Listings and Price Analysis  
-For this project, I cleaned and analyzed data which was scraped directly from Airbnb platform. The data had many issues that were addressed during the cleaning process. My main objective was to find any useful insights that can help first-time Airbnb hosts in Bangkok determine best pricing and listing practices to maximize their long-term revenue based on various factors such as room type, location, number of bedrooms, number of bathrooms, minimum nights, etc. 
+For this project, I cleaned and analyzed data which was scraped directly from Airbnb platform. The data contained over 70 columns and had many issues to be addressed during the cleaning process. My main objective was to find any useful insights that can help first-time Airbnb hosts in Bangkok determine best pricing and listing practices to maximize their long-term revenue based on a variety of dimemsions such as room type, location, number of bedrooms, minimum nights, etc. In the end, I presented the relevant insights in a presentation format.
 
-The skills showcased in this project are data cleaning (e.g.: nulls & duplicates handling, data correction, outliers detection), string extraction, XLOOKUP referencing, categorizing, descriptive statistics, correlation, pivot tables, conditional formating, process documenting, charts building, and presentation.
+The skills showcased in this project are data cleaning (e.g.: nulls & duplicates handling, data correction, outliers detection), string extraction, XLOOKUP referencing, categorizing, descriptive statistics, correlation, PivotTables, conditional formating, process documenting, charts building, and presentation.
 
 #### Fitness Tracker Data Exploration  
 For this project,  
