@@ -1,15 +1,13 @@
 # Airbnb Bangkok Listings and Price Analysis
 
-**Description:** This project analyzes 2.8 million rows of data using SQL and Excel to help a government agency improve service ticket resolution time by understanding where to focus their resources on. After exploring the data, I create a priority quadrant based on two selected metrics, plot the data against the quadrant, cross-validate the findings with data from New York City, and deep-dive to find patterns in location fields.
+**Description:** This project involves cleaning and analyzing data scraped directly from Airbnb platform. The data contains over 70 columns and has many formatting issues which are addressed during the cleaning process. The main objective was to find any useful insights that can help first-time Airbnb hosts in Bangkok determine best pricing and listing practices to maximize their long-term revenue based on a variety of dimemsions such as room type, location, number of bedrooms, minimum nights, etc.
 
-**Data tools:** PostgreSQL and Excel
+**Data tools:** Excel and PowerPoint.
 
-**Skills:** Data querying, data validation, JOINs & UNION clauses, aggregation, datetime convertion, filtering, subqueries, CTEs, conditions, PivotTables, Pivot Charts, and presentation.
+**Skills:** Data cleaning (e.g.: nulls & duplicates handling, data correction, outliers detection), string extraction, XLOOKUP referencing, categorizing, descriptive statistics, correlation, PivotTables, conditional formating, process documenting, charts building, and presentation.
 
 **Outputs:**  
-- SQL scripts with notes 
-- Excel workbook
-- Presentation slides
+- S
 
 ## Datasets
 
