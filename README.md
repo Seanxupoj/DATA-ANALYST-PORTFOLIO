@@ -38,12 +38,14 @@ For this project, I conducted an analysis on 2.8 million rows of data using a co
 The skills showcased in this project are data querying, data validation, JOINs & UNION clauses, aggregation, datetime convertion, filtering, subqueries, CTEs, conditions, PivotTables, Pivot Charts, and presentation.
 
 #### Airline Loyalty Campaign and Churn Analysis  
-For this project,  
+For this project, I analyzed two large data tables about loyalty program enrollment & cancellation details, customer information, and flight activity. My objectives were to help the airline capture the impact of their recent promotional campaign, find patterns among churn members, and recommend the next actions. After initial exploration, I visualized the impact of the campaign in terms of new members gained and number of flights booked. I also created a timeseries chart to show the churn situation and a few charts to give more insights on churn customers. 
 
-The skills showcased in this project are 
+important insights and planned out the storytelling  
+
+The skills showcased in this project are Tableau's data source, calculated fields, sets, groups, dashboard, story.
 
 #### Airbnb Bangkok Listings and Price Analysis  
-For this project, I cleaned and analyzed data which was scraped directly from Airbnb platform. The data contained over 70 columns and had many issues to be addressed during the cleaning process. My main objective was to find any useful insights that can help first-time Airbnb hosts in Bangkok determine best pricing and listing practices to maximize their long-term revenue based on a variety of dimemsions such as room type, location, number of bedrooms, minimum nights, etc. In the end, I presented the relevant insights in a presentation format.
+For this project, I cleaned and analyzed data which was scraped directly from Airbnb platform. The data contained over 70 columns and had many format issues to be addressed during the cleaning process. My main objective was to find any useful insights that can help first-time Airbnb hosts in Bangkok determine best pricing and listing practices to maximize their long-term revenue based on a variety of dimemsions such as room type, location, number of bedrooms, minimum nights, etc. In the end, I presented the relevant insights in a presentation format.
 
 The skills showcased in this project are data cleaning (e.g.: nulls & duplicates handling, data correction, outliers detection), string extraction, XLOOKUP referencing, categorizing, descriptive statistics, correlation, PivotTables, conditional formating, process documenting, charts building, and presentation.
 
