@@ -72,22 +72,6 @@ Bangkok University, Bangkok, Thailand: MBA International Program (Part-Time), 20
 
 
 ===
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     
 Markdown Reference
 
