@@ -7,7 +7,8 @@
 **Skills:** Data cleaning (e.g.: nulls & duplicates handling, data correction, outliers detection), string extraction, XLOOKUP referencing, categorizing, descriptive statistics, correlation, PivotTables, conditional formating, process documenting, charts building, and presentation.
 
 **Outputs:**  
-- S
+- Excel workbook.
+- Presentation slides.
 
 ## Datasets
 
