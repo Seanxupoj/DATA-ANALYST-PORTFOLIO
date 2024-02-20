@@ -48,7 +48,7 @@ For this project, I cleaned and analyzed data which was scraped directly from Ai
 The skills showcased in this project are data cleaning (e.g.: nulls & duplicates handling, data correction, outliers detection), string extraction, XLOOKUP referencing, categorizing, descriptive statistics, correlation, PivotTables, conditional formating, process documenting, charts building, and presentation.
 
 #### Fitness Tracker Data Exploration  
-In this project, I conducted a data exploration on Fitbit fitness tracker data. There were 18 CSV files which I narrowed down to 4 CSV files containing fitness data of users such as steps, calories loss, minutes sleep, etc. The main objective was to identify trends and insights regarding customer’s health, behavior and smart device usage that could be useful for health tracker companies. I divided this project into 4 phases and described each step along with the results in markdown format.
+In this project, I conducted a data exploration on Fitbit fitness tracker data. There were 18 CSV files which I narrowed down to 4 core CSV files containing fitness data of users such as steps, calories loss, minutes sleep, etc. The main objective was to identify trends and insights regarding customer’s health, behavior and smart device usage that could be useful for health tracker companies. I divided this project into 4 phases and described each step along with the results in markdown format.
 
 The skills showcased in this project are data importing, assaying, data cleaning (e.g.: duplicates handling, reformatting columns), data merging, descriptive statistics, aggregating and manipulating fields, data visualization, reporting.
 
