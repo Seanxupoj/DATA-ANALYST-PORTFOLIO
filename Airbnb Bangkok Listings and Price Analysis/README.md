@@ -8,7 +8,7 @@
 
 **Outputs:**  
 - Excel workbook in `.xlsx` format with multiple tabs covering raw data, cleaned data, data dictionary, data handling documentation, pivot tables, and charts.
-- Presentation slides in `.ppt` format.
+- Presentation slides in `.pdf` format.
 
 ## Datasets
 
