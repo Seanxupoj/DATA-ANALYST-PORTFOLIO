@@ -8,7 +8,7 @@
 
 **Outputs:** 
 - Tableau workbook in `.twbx` format containing worksheets, dashboard, and story points.
-- Presentation slides in `.pdf` format (exported from Tableau workbook).
+- Presentation slides in `.pdf` format (exported from Tableau workbook) containing project details, visualizations with notes, and final summary.
 
 ## Datasets
 
