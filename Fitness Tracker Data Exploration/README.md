@@ -7,7 +7,7 @@
 **Skills:** Data importing, assaying, data cleaning (e.g.: duplicates handling, reformatting columns), data merging, descriptive statistics, aggregating and manipulating fields, data visualization, reporting.
 
 **Outputs:** 
-- R Markdown report.
+- Report in `.md format` containing project details, commented process, findings, charts, and summary.
 
 ## Datasets
 
