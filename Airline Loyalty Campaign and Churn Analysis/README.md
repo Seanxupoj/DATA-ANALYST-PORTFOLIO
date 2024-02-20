@@ -7,8 +7,8 @@
 **Skills:** Data connections, calculated fields, sets, groups, binning, filters, dashboard, story, and presentation.
 
 **Outputs:** 
-- Tableau workbook.
-- Presentation slides.
+- Tableau workbook in `.twbx` format containing worksheets, dashboard, and story points.
+- Presentation slides in `.pdf` format (exported from Tableau workbook).
 
 ## Datasets
 
