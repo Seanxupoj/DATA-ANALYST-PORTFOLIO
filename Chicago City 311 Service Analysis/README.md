@@ -8,7 +8,7 @@
 
 **Outputs:**  
 - Detailed SQL scripts with in-line notes in .sql format.
-- Excel workbook with multiple tabs covering data dictionary, data handling processes, queried tables, pivot tables, and charts.
+- 'Excel workbook' with multiple tabs covering data dictionary, data handling processes, queried tables, pivot tables, and charts.
 - Presentation slides in .ppt format.
 
 ## Datasets
