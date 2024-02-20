@@ -7,9 +7,9 @@
 **Skills:** Data querying, data validation, JOINs & UNION clauses, aggregation, datetime convertion, filtering, subqueries, CTEs, conditions, PivotTables, Pivot Charts, and presentation.
 
 **Outputs:**  
-- Detailed SQL scripts with in-line notes in .sql format.
-- 'Excel workbook' with multiple tabs covering data dictionary, data handling processes, queried tables, pivot tables, and charts.
-- Presentation slides in .ppt format.
+- Detailed SQL scripts with in-line notes in `.sql` format.
+- `Excel workbook` with multiple tabs covering data dictionary, data handling processes, queried tables, pivot tables, and charts.
+- Presentation slides in `.ppt` format.
 
 ## Datasets
 
