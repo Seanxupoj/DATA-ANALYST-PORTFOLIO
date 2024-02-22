@@ -11,7 +11,7 @@
 - Presentation slides in `.pdf` format containing problem statement, objectives, data overview, outliers, findings, recommendations, and additional remarks.
 
 ## Datasets
-- `listings_detailed.csv` - data of all listings on Airbnb in Bangkok as of september 2023
+- `listings_detailed.csv` - Bangkok listings data on Airbnb as of september 2023
   - Fields: 75  
   - Rows: 20,824
 
