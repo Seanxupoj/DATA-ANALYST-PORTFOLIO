@@ -10,10 +10,16 @@
 - Report in `.md` format containing project details, processes, descriptions, findings, charts, and summary.
   
 ## Datasets
-- name.csv - detail
+- `dailyActivity_merged.csv` - detail
   - Fields:   
   - Records:
-- name.csv - detail
+- `hourlySteps_merged.csv` - detail
+  - Fields:   
+  - Records:
+- `sleepDay_merged.csv` - detail
+  - Fields:   
+  - Records:
+- `weightLogInfo_merged.csv` - detail
   - Fields:   
   - Records:
   
