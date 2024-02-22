@@ -7,7 +7,8 @@
 **Skills:** Data connections, calculated fields, sets, groups, binning, filters, dashboard, story, and presentation.
 
 **Outputs:** 
-- [Tableau workbook](https://public.tableau.com/app/profile/sean.x7307/viz/ProjectAirlineLoyaltyProgramAnalysis/Presentation) uploaded to `Tableau Public` containing views, dashboard, and story points.
+- Tableau workbook uploaded to `Tableau Public` containing views, dashboard, and story points.
+    - [https://public.tableau.com/app/profile/sean.x7307/viz/ProjectAirlineLoyaltyProgramAnalysis/Presentation](https://public.tableau.com/app/profile/sean.x7307/viz/ProjectAirlineLoyaltyProgramAnalysis/Presentation)
 - Presentation slides in `.pdf` format (exported from Tableau workbook) containing brief context, objectives, dataset details, visualizations with notes, and final summary.
 
 ## Datasets
