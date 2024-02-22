@@ -14,4 +14,4 @@
 
 
 ## Acknowledgements
-The raw data is publically available on Inside Airbnb website.
+The data is publically available on [Inside Airbnb website](http://insideairbnb.com/get-the-data).
