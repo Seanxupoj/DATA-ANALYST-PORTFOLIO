@@ -7,7 +7,7 @@
 **Skills:** Data importing, assaying, data cleaning (e.g.: duplicates handling, reformatting columns), data merging, descriptive statistics, aggregating and manipulating fields, data visualization, reporting.
 
 **Outputs:** 
-- Report in `.md format` containing project details, processes, descriptions, findings, charts, and summary.
+- Report in `.md` format containing project details, processes, descriptions, findings, charts, and summary.
 
 ## Datasets
 
