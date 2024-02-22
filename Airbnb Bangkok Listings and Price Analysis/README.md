@@ -11,7 +11,9 @@
 - Presentation slides in `.pdf` format containing problem statement, objectives, analysis questions, data overview, outliers, findings, recommodations, and remarks.
 
 ## Datasets
-
+listings_detailed.csv  
+Fields: 75  
+Records: 20,824
 
 ## Acknowledgements
 The data is publically available on [Inside Airbnb website](http://insideairbnb.com/get-the-data).
