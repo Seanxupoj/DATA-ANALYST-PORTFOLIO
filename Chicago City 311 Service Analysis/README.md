@@ -12,6 +12,12 @@
 - Presentation slides in `.pdf` format containing problem statement, data details, findings, summary, and additional remarks.
 
 ## Datasets
+- name.csv - detail
+  - Fields:   
+  - Records:
+- name.csv - detail
+  - Fields:   
+  - Records: 
 
 ## Acknowledgements
 The data is stored in General Assembly's internal database but is also available on [City of Chicago official data portal](https://data.cityofchicago.org/).
