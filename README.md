@@ -30,7 +30,7 @@ In this portfolio, I have included data projects that showcase my technical skil
 * [Education](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO?tab=readme-ov-file#education)
 
 ## Projects
-In this section you can find brief summary of the listed projects for quick comprehension. For more details, please check out the documents in each respective folder.
+In this section you can find short summary of the listed projects. For more details, please check out the documents in each respective project folder.
 
 #### Chicago City 311 Service Analysis  
 For this project, I conducted an analysis on 2.8 million rows of data using a combination of SQL and Excel. The goal was to help a public agency in Chicago improve ticket resolution time by understanding where they should focus their resources on. After exploring the data, I created a priority quadrant based on two selected metrics, plotted the data against the quadrant, cross-validated the findings with data from New York City, and deep dived to find patterns in location fields. In the end, I shared the key insights, suggestions, and remarks in a presentation.  
