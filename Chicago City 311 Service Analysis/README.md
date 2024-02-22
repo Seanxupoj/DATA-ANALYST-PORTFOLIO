@@ -21,7 +21,7 @@
 - `chicago_311_2018` - Chicago 311 service ticket data in 2018
   - Fields: 15  
   - Records: 461,170
-- `chicago_311_community_areas` - Chicago community areas data
+- `chicago_311_community_areas` - Chicago community areas data (incompleted)
   - Fields: 2  
   - Records: 7
 - `nyc_311_2019` - New York City 311 service ticket data in 2019
