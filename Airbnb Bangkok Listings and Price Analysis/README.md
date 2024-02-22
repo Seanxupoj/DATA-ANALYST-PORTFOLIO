@@ -13,7 +13,7 @@
 ## Datasets
 - `listings_detailed.csv` - data of all listings on Airbnb in Bangkok as of september 2023
   - Fields: 75  
-  - Records: 20,824
+  - Rows: 20,824
 
 ## Acknowledgements
 The data is publically available on [Inside Airbnb website](http://insideairbnb.com/get-the-data).
