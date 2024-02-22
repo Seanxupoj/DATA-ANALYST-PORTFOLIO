@@ -10,18 +10,18 @@
 - Report in `.md` format containing project details, processes, descriptions, findings, charts, and summary.
   
 ## Datasets
-- `dailyActivity_merged.csv` - detail
-  - Fields:   
-  - Records:
-- `hourlySteps_merged.csv` - detail
-  - Fields:   
-  - Records:
-- `sleepDay_merged.csv` - detail
-  - Fields:   
-  - Records:
-- `weightLogInfo_merged.csv` - detail
-  - Fields:   
-  - Records:
+- `dailyActivity_merged.csv` - daily activity logs of users
+  - Fields: 15   
+  - Records: 941
+- `hourlySteps_merged.csv` - hourly step counts of users
+  - Fields: 3
+  - Records: 22,100
+- `sleepDay_merged.csv` - sleep logs of users
+  - Fields: 5   
+  - Records: 414
+- `weightLogInfo_merged.csv` - weight logs of users
+  - Fields: 8
+  - Records: 68
   
 ## Acknowledgements
 The data is publically available on [Zenodo website](https://zenodo.org/records/53894#.YMoUpnVKiP9) as well as Kaggle.
