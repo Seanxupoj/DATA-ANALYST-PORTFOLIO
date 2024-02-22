@@ -8,7 +8,7 @@
 
 **Outputs:**  
 - Excel workbook in `.xlsx` format with multiple tabs covering raw data, cleaned data, data dictionary, data handling documentation, pivot tables, and charts.
-- Presentation slides in `.pdf` format containing problem statement, objectives, analysis questions, data overview, outliers, findings, recommodations, and remarks.
+- Presentation slides in `.pdf` format containing problem statement, objectives, data overview, outliers, findings, recommendations, and remarks.
 
 ## Datasets
 - `listings_detailed.csv` - data of all listings on Airbnb in Bangkok as of september 2023
