@@ -14,10 +14,10 @@
 ## Datasets
 - `customer_flight_activity.csv` - flight and loyalty point activities
   - Fields: 10  
-  - Records: 405,625
+  - Rows: 405,625
 - `customer_loyalty_history.csv` - brief details of loyalty customers
   - Fields: 16  
-  - Records: 16,738
+  - Rows: 16,738
     
 ## Acknowledgements
 The data is originally from IBM, and currently can be downloaded from Maven Analytics website.
