@@ -12,16 +12,16 @@
 ## Datasets
 - `dailyActivity_merged.csv` - daily activity logs of users
   - Fields: 15   
-  - Records: 941
+  - Rows: 941
 - `hourlySteps_merged.csv` - hourly step counts of users
-  - Fields: 3
+  - Rows: 3
   - Records: 22,100
 - `sleepDay_merged.csv` - sleep logs of users
-  - Fields: 5   
+  - Rows: 5   
   - Records: 414
 - `weightLogInfo_merged.csv` - weight logs of users
   - Fields: 8
-  - Records: 68
+  - Rows: 68
   
 ## Acknowledgements
 The data is publically available on [Zenodo website](https://zenodo.org/records/53894#.YMoUpnVKiP9) as well as Kaggle.
