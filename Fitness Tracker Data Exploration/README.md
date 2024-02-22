@@ -13,4 +13,4 @@
 
 
 ## Acknowledgements
-The data is publically available on [Zenodo website](https://zenodo.org/records/53894#.YMoUpnVKiP9).
+The data is publically available on [Zenodo website](https://zenodo.org/records/53894#.YMoUpnVKiP9) as well as Kaggle.
