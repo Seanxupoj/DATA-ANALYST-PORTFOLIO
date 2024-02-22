@@ -12,8 +12,8 @@
 
 ## Datasets
 - listings_detailed.csv  
-  - Fields: 75  
-  - Records: 20,824
+ - Fields: 75  
+ - Records: 20,824
 
 ## Acknowledgements
 The data is publically available on [Inside Airbnb website](http://insideairbnb.com/get-the-data).
