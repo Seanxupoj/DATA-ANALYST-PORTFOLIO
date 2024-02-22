@@ -14,4 +14,4 @@
 ## Datasets
 
 ## Acknowledgements
-The data is stored in General Assembly's internal database but is also available on [City of Chicago official data portal](https://data.cityofchicago.org/)
+The data is stored in General Assembly's internal database but is also available on [City of Chicago official data portal](https://data.cityofchicago.org/).
