@@ -1,6 +1,6 @@
 # Airline Loyalty Campaign and Churn Analysis
 
-**Description:** This project analyzes data on loyalty program enrollment, cancellation details, customer information, and flight activities. The objectives are to help the airline capture the impact of their recent promotional campaign, find patterns among churn members, and recommend the next actions. After exploration and analysis, the key findings about campaign's impacts, potential problem, and churn patterns are visualized with appropriate charts, leveraging pre-attentive attributes for effective visuals. The findings and suggestions are presented though a series of story points.
+**Description:** This project analyzes data on loyalty program enrollment, cancellation details, customer information, and flight activities. The objectives are to help the airline capture the impact of their recent promotional campaign, find patterns among churn members, and recommend the next actions. After exploration and analysis, the key findings about campaign's impacts, potential problem, and churn patterns are visualized with appropriate charts and design methods, leveraging pre-attentive attributes for effective visuals. The findings and suggestions are then presented though a series of story points with annotations.
 
 **Tools:** Tableau (View, Dashboard, and Story).
 
