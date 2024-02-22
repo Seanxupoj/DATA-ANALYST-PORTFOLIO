@@ -14,4 +14,4 @@
 ## Datasets
 
 ## Acknowledgements
-The data is from IBM and currently can be downloaded from Maven Analytics website.
+The data is originally from IBM, and currently can be downloaded from Maven Analytics website.
