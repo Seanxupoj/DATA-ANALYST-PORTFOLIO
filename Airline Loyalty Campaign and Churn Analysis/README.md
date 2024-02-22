@@ -12,12 +12,12 @@
 - Presentation slides in `.pdf` format (exported from Tableau workbook) containing brief context, objectives, dataset details, visualizations with notes, and final summary.
 
 ## Datasets
-- name.csv - detail
-  - Fields:   
-  - Records:
-- name.csv - detail
-  - Fields:   
-  - Records: 
+- `customer_flight_activity.csv` - records of loyalty customer flight and point activities
+  - Fields: 10  
+  - Records: 405,625
+- `customer_loyalty_history.csv` - brief information of loyalty customers
+  - Fields: 16  
+  - Records: 16,738
     
 ## Acknowledgements
 The data is originally from IBM, and currently can be downloaded from Maven Analytics website.
