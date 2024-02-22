@@ -11,7 +11,7 @@
 - Presentation slides in `.pdf` format containing problem statement, objectives, analysis questions, data overview, outliers, findings, recommodations, and remarks.
 
 ## Datasets
-- listings_detailed.csv  
+- listings_detailed.csv: detailed data of all listings in Bangkok as of 2023
   - Fields: 75  
   - Records: 20,824
 
