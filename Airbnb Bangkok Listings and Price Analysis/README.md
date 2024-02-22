@@ -11,7 +11,7 @@
 - Presentation slides in `.pdf` format containing problem statement, objectives, analysis questions, data overview, outliers, findings, recommodations, and remarks.
 
 ## Datasets
-listings_detailed.csv  
+- listings_detailed.csv  
 Fields: 75  
 Records: 20,824
 
