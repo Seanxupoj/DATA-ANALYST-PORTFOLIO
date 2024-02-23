@@ -23,7 +23,7 @@ In this portfolio, I have included data projects that showcase my technical skil
    * RStudio
       * [Fitness Tracker Data Exploration](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/tree/main/Fitness%20Tracker%20Data%20Exploration)
    * Python
-      * Student Exam Performance Exploratory Analysis (in process)
+      * Ecommerce Customer RFM Analysis (in process)
 
 * [Certificates](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO?tab=readme-ov-file#certificates)
 
