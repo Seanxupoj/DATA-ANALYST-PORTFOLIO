@@ -23,7 +23,7 @@ In this portfolio, I have included data projects that showcase my technical skil
    * RStudio
       * [Fitness Tracker Data Exploration](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/blob/main/Fitness%20Tracker%20Data%20Exploration/FitnessTracker_EDA.md)
    * Python
-      * Ecommerce Customer RFM Analysis (in process)
+      * Customer Segmentation with RFM Analysis (in process)
 
 * [Certificates](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO?tab=readme-ov-file#certificates)
 
