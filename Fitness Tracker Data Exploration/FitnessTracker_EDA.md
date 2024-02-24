@@ -7,7 +7,7 @@ By Supoj Xu (Sean)
 
 This exploratory analysis is a capstone project for *Google Data
 Analytics Professional Course*. I selected this topic because of
-my personal interest in healthy lifestyle and health data. In this project, I have used *RStudio* for the
+my personal interest in healthy lifestyle and health data. In this project, I use *RStudio* for the
 entire exploration and *R Markdown* for reporting the process and the
 results.
 
