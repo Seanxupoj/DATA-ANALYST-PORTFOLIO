@@ -1,6 +1,6 @@
 # Airbnb Bangkok Listings and Price Analysis
 
-**Description:** This project involves cleaning and analyzing data which was scraped directly from Airbnb platform. The data contains over 70 columns and has many formatting issues to be addressed during the cleaning process. The main objective is to find any useful insights that can help first-time Airbnb hosts in Bangkok determine best pricing and listing practices to maximize their long-term revenue based on a variety of dimensions such as room type, location, number of bedrooms, minimum nights, etc.
+**Description:** This project involves cleaning and analyzing data which was scraped directly from Airbnb platform. The data contains over 70 columns and has many formatting issues to be addressed. The main objective is to find any useful insights that can help first-time Airbnb hosts in Bangkok determine best pricing and listing practices to maximize their long-term revenue based on a variety of dimensions such as room type, location, number of bedrooms, minimum nights, etc.
 
 **Tools:** MS Excel and PowerPoint.
 
