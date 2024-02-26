@@ -16,13 +16,13 @@ In this portfolio, I have included data projects that showcase my technical skil
       * [Chicago City 311 Service Analysis](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/tree/main/Chicago%20City%20311%20Service%20Analysis)
    * Tableau
       * [Airline Loyalty Campaign and Churn Analysis](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/tree/main/Airline%20Loyalty%20Campaign%20and%20Churn%20Analysis)
-      * Sales Dashboard (in process)
+      * Sales Dashboard (in process)  
+   * Python
+      * Customer Segmentation with RFM Model (in process)  
    * Excel
       * [Airbnb Bangkok Listings and Price Analysis](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/tree/main/Airbnb%20Bangkok%20Listings%20and%20Price%20Analysis)
    * RStudio
       * [Fitness Tracker Data Exploration](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/blob/main/Fitness%20Tracker%20Data%20Exploration/FitnessTracker_EDA.md)
-   * Python
-      * Customer Segmentation with RFM Analysis (in process)
 
 * [Certificates](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO?tab=readme-ov-file#certificates)
 
