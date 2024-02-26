@@ -12,13 +12,13 @@ In this portfolio, I have included data projects that showcase my technical skil
   
 * [Portfolio Projects](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO?tab=readme-ov-file#projects)
   
-   * SQL
-      * [Chicago City 311 Service Analysis](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/tree/main/Chicago%20City%20311%20Service%20Analysis)
    * Tableau
       * [Airline Loyalty Campaign and Churn Analysis](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/tree/main/Airline%20Loyalty%20Campaign%20and%20Churn%20Analysis)
       * Sales Dashboard (in process)  
    * Python
-      * Customer Segmentation with RFM Model (in process)  
+      * Customer Segmentation with RFM Model (in process)
+   * SQL
+      * [Chicago City 311 Service Analysis](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/tree/main/Chicago%20City%20311%20Service%20Analysis)
    * Excel
       * [Airbnb Bangkok Listings and Price Analysis](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/tree/main/Airbnb%20Bangkok%20Listings%20and%20Price%20Analysis)
    * RStudio
@@ -31,15 +31,15 @@ In this portfolio, I have included data projects that showcase my technical skil
 ## Projects
 In this section you can find short summary of the listed projects for quick comprehension. For more details, please check out the documents in each respective project folder.
 
-#### Chicago City 311 Service Analysis  
-For this project, I conducted an analysis on 2.8 million rows of data using a combination of SQL and Excel. The goal was to help a public agency in Chicago improve ticket resolution time by understanding where they should focus their resources on. After exploring the data, I created a priority quadrant based on two selected metrics, plotted the data against the quadrant, cross-validated the findings with data from New York City, and deep dived to find patterns in location fields. In the end, I shared the key insights, suggestions, and remarks in a presentation.  
-
-The skills showcased in this project are data querying, data validation, JOINs & UNION clauses, aggregation, datetime conversion, filtering, subqueries, CTEs, conditions, PivotTables, Pivot Charts, and presentation.
-
 #### Airline Loyalty Campaign and Churn Analysis  
 For this project, I analyzed loyalty program data including program enrollment, cancellation details, customer information, and flight activities. My objectives were to help the airline capture the impact of their recent promotional campaign, find patterns among churn members, and recommend appropriate actions. After exploration and analysis, I visualized important findings about the impact of the campaign, the potential problem, and churn patterns with appropriate charts and design methods, leveraging pre-attentive attributes for effective visuals. In the end, I presented the findings and suggestions in a series of Tableau story points with annotations.  
 
 The skills showcased in this project are data connections, calculated fields, sets, groups, binning, filters, dashboard, story, and presentation.
+
+#### Chicago City 311 Service Analysis  
+For this project, I conducted an analysis on 2.8 million rows of data using a combination of SQL and Excel. The goal was to help a public agency in Chicago improve ticket resolution time by understanding where they should focus their resources on. After exploring the data, I created a priority quadrant based on two selected metrics, plotted the data against the quadrant, cross-validated the findings with data from New York City, and deep dived to find patterns in location fields. In the end, I shared the key insights, suggestions, and remarks in a presentation.  
+
+The skills showcased in this project are data querying, data validation, JOINs & UNION clauses, aggregation, datetime conversion, filtering, subqueries, CTEs, conditions, PivotTables, Pivot Charts, and presentation.
 
 #### Airbnb Bangkok Listings and Price Analysis  
 For this project, I cleaned and analyzed data which was scraped directly from Airbnb platform. The data contained over 70 columns and had many formatting issues to be addressed. The main objective was to find any useful insights that can help first-time Airbnb hosts in Bangkok determine best pricing and listing practices to maximize their long-term revenue based on a variety of dimensions such as room type, location, number of bedrooms, minimum nights, etc. In the end, I presented relevant findings in an easy to understand presentation format.
