@@ -7,11 +7,8 @@
 **Skills:** 
 
 **Outputs:**  
-- 
 
 ## Tables
-- 
-  - 
 
 ## Acknowledgements
 
