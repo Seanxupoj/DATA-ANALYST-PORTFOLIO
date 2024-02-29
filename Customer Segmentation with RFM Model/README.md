@@ -7,7 +7,7 @@
 **Skills:** Python libraries (Numpy, Pandas, Matplotlib, Seaborn), RFM analysis, quantile scoring, customer segmentation.
 
 **Outputs:**  
-- Notebook in `.pynb` file format.
+- Project notebook in `.ipynb` file format.
 - Medium article: www.medium.com/@sxupoj/my-first-python-project-retail-customer-segmentation-1bce966c394a
 
 ## Dataset
