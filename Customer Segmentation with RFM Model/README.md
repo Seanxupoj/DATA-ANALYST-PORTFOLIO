@@ -11,9 +11,9 @@
 - Medium article: www.medium.com/@sxupoj/my-first-python-project-retail-customer-segmentation-1bce966c394a
 
 ## Dataset
-- `online_retail_data.csv`
+- `online_retail_data.csv` - customer transactions data over 2 years.
+  - Fields: 8
   - Rows: 541,909
-  - Columns: 8
 
 ## Acknowledgements
-
+The data is publically available on [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/).
