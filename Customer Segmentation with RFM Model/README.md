@@ -4,7 +4,7 @@
 
 **Tools:** Jupyter Notebook.
 
-**Skills:** Python libraries: Numpy, Pandas, Matplotlib, Seaborn; RFM analysis, quantile scoring, customer segmentation.
+**Skills:** Python libraries (Numpy, Pandas, Matplotlib, Seaborn), RFM analysis, quantile scoring, customer segmentation.
 
 **Outputs:**  
 - Notebook in `.pynb` file format.
