@@ -8,7 +8,7 @@
 
 **Outputs:**  
 - Project notebook in `.ipynb` file format.
-- Medium article: www.medium.com/@sxupoj/my-first-python-project-retail-customer-segmentation-1bce966c394a
+- Medium article: https://medium.com/p/1bce966c394a
 
 ## Dataset
 - `online_retail_data.csv` - customer transactions data over 2 years.
