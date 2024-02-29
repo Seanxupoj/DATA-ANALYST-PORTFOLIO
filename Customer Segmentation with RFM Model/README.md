@@ -4,7 +4,7 @@
 
 **Tools:** Jupyter Notebook.
 
-**Skills:** Python libraries (Numpy, Pandas, Matplotlib, Seaborn), for loop, def statement, lambda function, RFM analysis, quantile scoring.
+**Skills:** Python libraries (Numpy, Pandas, Matplotlib, Seaborn), for loop, def statement, RFM analysis, quantile scoring, outliers removing.
 
 **Outputs:**  
 - Project notebook in `.ipynb` file format.
