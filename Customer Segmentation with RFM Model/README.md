@@ -1,6 +1,6 @@
 # Customer Segmentation with RFM Model
 
-**Description:** This project 
+**Description:** This project analyzes retail transactions data and classifies customers into distinct groups by applying RFM model and quantile scoring method. The objective is to help the business gain insights and develop effective engagement strategies based on customer behaviors. As a result, two tables are created describing each group's charateristics and sharing recommended marketing strategies.
 
 **Tools:** Jupyter Notebook.
 
