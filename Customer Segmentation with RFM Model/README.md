@@ -2,7 +2,7 @@
 
 **Description:** This project analyzes retail transactions data and classifies customers into distinct groups by applying RFM model and quantile scoring method. The objective is to help the business gain insights and develop effective engagement strategies based on customer behaviors. As a result, two tables are created describing each group's charateristics and sharing recommended marketing strategies.
 
-**Tools:** Jupyter Notebook.
+**Tools:** Jupyter Notebook (Python).
 
 **Skills:** Python libraries (Numpy, Pandas, Matplotlib, Seaborn), for loop, def statement, branching, data slicing, data merging, nulls & duplicates handling, RFM analysis, quantile scoring, outliers removal, and subplot visualization.
 
