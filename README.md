@@ -38,7 +38,7 @@ The skills showcased in this project are data connections, calculated fields, se
 
 #### Customer Segmentation with RFM Model
 
-For this project,  
+For this project, I analyzed retail customer transactions data and classified customers into groups by using RFM model and quantile scoring method. The objective was to help the business gain insights and develop effective marketing strategies.
 
 The skills showcased in this project are Python libraries (Numpy, Pandas, Matplotlib, Seaborn), for loop, def statement, branching, data slicing, data merging, nulls & duplicates handling, RFM analysis, quantile scoring, outliers removal, and subplot visualization.  
 
