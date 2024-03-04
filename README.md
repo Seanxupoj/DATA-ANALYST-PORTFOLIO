@@ -40,7 +40,7 @@ The skills showcased in this project are data connections, calculated fields, se
 
 For this project,  
 
-The skills showcased in this project are Python libraries (Numpy, Pandas, Matplotlib, Seaborn), for loop, def statement, branching, data slicing, data merging, RFM analysis, quantile scoring, outliers removal, and subplot visualization.  
+The skills showcased in this project are Python libraries (Numpy, Pandas, Matplotlib, Seaborn), for loop, def statement, branching, data slicing, data merging, nulls & duplicates handling, RFM analysis, quantile scoring, outliers removal, and subplot visualization.  
 
 #### Chicago City 311 Service Analysis  
 For this project, I conducted an analysis on 2.8 million rows of data using a combination of SQL and Excel. The goal was to help a public agency in Chicago improve ticket resolution time by understanding where they should focus their resources on. After exploring the data, I created a priority quadrant based on two selected metrics, plotted the data against the quadrant, cross-validated the findings with data from New York City, and deep dived to find patterns in location fields. In the end, I shared the key insights, suggestions, and remarks in a presentation.  
