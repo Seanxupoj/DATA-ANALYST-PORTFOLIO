@@ -16,7 +16,7 @@ In this portfolio, I have included data projects that showcase my technical skil
       * [Airline Loyalty Campaign and Churn Analysis](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/tree/main/Airline%20Loyalty%20Campaign%20and%20Churn%20Analysis)
       * Sales Dashboard (in process)  
    * Python
-      * [Customer Segmentation with RFM Model (in process)](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/tree/main/Customer%20Segmentation%20with%20RFM%20Model)
+      * [Customer Segmentation with RFM Model](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/tree/main/Customer%20Segmentation%20with%20RFM%20Model)
    * SQL
       * [Chicago City 311 Service Analysis](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/tree/main/Chicago%20City%20311%20Service%20Analysis)
    * Excel
