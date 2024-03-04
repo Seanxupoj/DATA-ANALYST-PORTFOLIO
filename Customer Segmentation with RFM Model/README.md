@@ -1,10 +1,10 @@
 # Customer Segmentation with RFM Model
 
-**Description:** 
+**Description:** This project 
 
 **Tools:** Jupyter Notebook.
 
-**Skills:** Python libraries (Numpy, Pandas, Matplotlib, Seaborn), for loop, def statement, branching, data slicing, data merging, RFM analysis, quantile scoring, outliers removal, and subplot visualization.
+**Skills:** Python libraries (Numpy, Pandas, Matplotlib, Seaborn), for loop, def statement, branching, data slicing, data merging, nulls & duplicates handling, RFM analysis, quantile scoring, outliers removal, and subplot visualization.
 
 **Outputs:**  
 - Project notebook in `.ipynb` file format.
