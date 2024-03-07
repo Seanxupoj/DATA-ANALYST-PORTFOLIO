@@ -1,4 +1,4 @@
-# Executive Sales Dashboard
+# Executive Sale Dashboard
 
 **Description:** This project
 
