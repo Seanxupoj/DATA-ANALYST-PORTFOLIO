@@ -11,9 +11,9 @@
   - Link: https://public.tableau.com/app/profile/sean.x7307/viz/ProjectExecutiveSalesDashboard/Sales
 
 ## Dataset
-- `.csv` - 
-  - Fields: 
-  - Rows: 
+- `US Store Sales.csv` - 
+  - Fields: 20
+  - Rows: 9994
 
 ## Acknowledgements
 The dataset is uploaded and shared on
