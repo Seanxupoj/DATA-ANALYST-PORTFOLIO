@@ -14,7 +14,7 @@ In this portfolio, I have included data projects that showcase my technical skil
   
    * Tableau
       * [Airline Loyalty Campaign and Churn Analysis](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/tree/main/Airline%20Loyalty%20Campaign%20and%20Churn%20Analysis)
-      * [Executive Sales Dashboard (in process)](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/tree/main/Executive%20Sales%20Dashboard)
+      * [Executive Business Sales Dashboard (in process)](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/tree/main/Executive%20Sales%20Dashboard)
    * Python
       * [Customer Segmentation with RFM Model](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/tree/main/Customer%20Segmentation%20with%20RFM%20Model)
    * SQL
