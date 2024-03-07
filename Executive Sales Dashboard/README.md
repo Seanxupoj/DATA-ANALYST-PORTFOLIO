@@ -7,7 +7,8 @@
 **Skills:** 
 
 **Outputs:**  
-- Dashboards uploaded on `Tableau Server`: https://public.tableau.com/app/profile/sean.x7307/viz/ProjectExecutiveSalesDashboard/Sales
+- Dashboards uploaded on `Tableau Server`
+  - Link: https://public.tableau.com/app/profile/sean.x7307/viz/ProjectExecutiveSalesDashboard/Sales
 
 ## Dataset
 - `.csv` - 
