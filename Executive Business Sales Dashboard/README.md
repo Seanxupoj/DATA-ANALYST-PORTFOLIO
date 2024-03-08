@@ -10,7 +10,7 @@
 - Image copies of the dashboards in `.pdf`.
 
 ## Dataset
-- `US Store Sales.csv` - store orders and transactions data from 2019 - 2022.
+- `US Store Sales.csv` - Store orders and transactions data from 2019 - 2022.
   - Fields: 20
   - Rows: 9,994
 
