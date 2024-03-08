@@ -1,6 +1,6 @@
 # Executive Business Sales Dashboard
 
-**Tools:** Tableau Desktop
+**Tools:** Tableau Desktop, Tableau Public, Excel
 
 **Skills:** 
 
