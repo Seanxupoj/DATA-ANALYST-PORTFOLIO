@@ -5,8 +5,9 @@
 **Skills:** 
 
 **Outputs:**  
-- Interactive dashboards uploaded on `Tableau Public`.
+- Interactive dashboards uploaded on `Tableau Public` (best viewed full screen).
   - Link: https://public.tableau.com/app/profile/sean.x7307/viz/ProjectExecutiveSalesDashboard/Products
+- Image copies of the dashboards in `.pdf`.
 
 ## Dataset
 - `US Store Sales.csv` - store orders and transactions data from 2019 - 2022.
