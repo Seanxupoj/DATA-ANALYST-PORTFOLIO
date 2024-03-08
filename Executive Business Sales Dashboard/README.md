@@ -11,8 +11,8 @@
 
 ## Dataset
 - `US Store Sales.csv` - store orders and transactions data from 2019 - 2022.
-  - Fields: 20
-  - Rows: 9994
+  - Fields: 20.
+  - Rows: 9,994.
 
 ## Acknowledgements
 The dataset is uploaded and shared on Datawonders (Atlassian) by Steve Martin.
