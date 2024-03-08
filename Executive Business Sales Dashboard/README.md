@@ -1,6 +1,6 @@
 # Executive Business Sales Dashboard
 
-**Tools:** Tableau Desktop and MS Excel (initial cleaning).
+**Tools:** Tableau Desktop and Excel (initial cleaning).
 
 **Skills:** Calculated fields, date & string functions, table calculations, IF branching, indexing, filters, visualization, actions, dashboard design, and publishing.
 
