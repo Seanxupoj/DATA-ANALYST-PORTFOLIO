@@ -1,14 +1,12 @@
-# Executive Sale Dashboard
-
-**Description:** This project
+# Executive Business Sales Dashboard
 
 **Tools:** Tableau Desktop
 
 **Skills:** 
 
 **Outputs:**  
-- Dashboards uploaded on `Tableau Public`
-  - Link: https://public.tableau.com/app/profile/sean.x7307/viz/ProjectExecutiveSalesDashboard/Sales
+- Interactive dashboards uploaded on `Tableau Public`.
+  - Link: https://public.tableau.com/app/profile/sean.x7307/viz/ProjectExecutiveSalesDashboard/Products
 
 ## Dataset
 - `US Store Sales.csv` - 
