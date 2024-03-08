@@ -2,7 +2,7 @@
 
 **Tools:** Tableau Desktop and MS Excel.
 
-**Skills:** 
+**Skills:** Calculated fields, date & string functions, table calculations, IF branching, indexing, filters, visualization, actions, dashboard design, and publishing.
 
 **Outputs:**  
 - Interactive dashboards uploaded on `Tableau Public` (best viewed in full screen mode).
