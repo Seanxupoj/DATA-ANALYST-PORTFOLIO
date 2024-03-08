@@ -5,7 +5,7 @@
 **Skills:** 
 
 **Outputs:**  
-- Interactive dashboards uploaded on `Tableau Public` (best viewed full screen).
+- Interactive dashboards uploaded on `Tableau Public` (best viewed in full screen mode).
   - Link: https://public.tableau.com/app/profile/sean.x7307/viz/ProjectExecutiveSalesDashboard/Products
 - Image copies of the dashboards in `.pdf`.
 
