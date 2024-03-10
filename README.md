@@ -74,23 +74,3 @@ The skills showcased in this project are data importing, assaying, data cleaning
 Michigan State University, Michigan, USA: Bachelor's Degree in Supply Chain Management, 2015-2019.
 
 Bangkok University, Bangkok, Thailand: MBA International Program (Part-Time), 2023-Present.
-
-
-===
-    
-Markdown Reference
-
-`Key word`
-> "Quote"
-
-*Italic*
-
-**Directory**
-* Bulletpoint
-* Bulletpoint
-* Bulletpoint
-* Bulletpoint
-
-This is a [Link](www.google.com)
-
-===
