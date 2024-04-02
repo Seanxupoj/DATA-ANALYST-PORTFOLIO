@@ -61,6 +61,8 @@ The skills showcased in this project are data importing, assaying, data cleaning
 
 [General Assembly Data Analytics Bootcamp](https://www.linkedin.com/in/supoj-sean-xu-871903152/overlay/experience/2290696317/multiple-media-viewer/?profileId=ACoAACTMJRUBI7SGyNo72x4hVGqdn9ej-ZK1wGU&treasuryMediaId=1707876711295) (2024) (Intructor-Led Training by General Assembly)
 
+[Tableau Analyst Path](https://www.credly.com/users/supu-xu.3292dfd1/badges) (2024) (Salesforce - Tableau)
+
 [Google Data Analytics Specialization](https://www.coursera.org/account/accomplishments/professional-cert/DS74EJNRFCVL) (2023) (Coursera - Google)
 
 [Data Analysis with Python](https://www.coursera.org/account/accomplishments/certificate/356QEGJDH9V3) (2023) (Coursera - IBM)  
