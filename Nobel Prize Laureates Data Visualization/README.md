@@ -1,8 +1,8 @@
-# Executive Business Sales Dashboard
+# Nobel Prize Laureates Data Visualization
 
 **Tools:** Tableau Desktop, Excel (initial cleaning), and PowerPoint.
 
-**Skills:** Calculated fields, date & string functions, table calculations, IF branching, indexing, filters, visualization, actions, dashboard design, publishing, and presentation.
+**Skills:** Calculated fields, conditional aggregation, date functions, decade grouping, table calculations, crosstabs, filters, sets, charts building, dashboard design, research, publishing, and presentation.
 
 **Outputs:**  
 - Project insights and summary presentation slides in `.pdf`.
@@ -10,8 +10,8 @@
   - Link: https://public.tableau.com/app/profile/sean.x7307/viz/NobelPrizeEDA/Dashboard
 
 ## Dataset
-- `US Store Sales.csv` - store orders and shipping data from 2019 - 2022 for US market.
-  - Fields: 20
-  - Rows: 9,994
+- `Nobel.csv` - Nobel prize laurates data from 1901 - 2023.
+  - Fields: 18
+  - Rows: 1,000
 
 ## Acknowledgements
