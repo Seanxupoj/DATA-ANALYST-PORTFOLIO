@@ -6,7 +6,7 @@
 
 **Outputs:**  
 - Project insights and summary presentation slides in `.pdf`.
-- Interactive dashboards uploaded on `Tableau Public`.
+- Dashboard with additional insights by country uploaded on `Tableau Public`.
   - Link: https://public.tableau.com/app/profile/sean.x7307/viz/NobelPrizeEDA/Dashboard
 
 ## Dataset
