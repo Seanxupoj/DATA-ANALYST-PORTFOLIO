@@ -4,7 +4,7 @@
 
 **Tools:** Jupyter Notebook (Python).
 
-**Skills:** Python libraries (Numpy, Pandas, Matplotlib, Seaborn), for loop, def statement, branching, data slicing, data merging, nulls & duplicates handling, RFM analysis, quantile scoring, outliers removal, and subplot visualization.
+**Skills:** Python libraries (Numpy, Pandas, Matplotlib, Seaborn), for loop, def statement, branching, data slicing, data merging, nulls & duplicates handling, RFM analysis, quantile scoring, outliers removal, subplot visualization, and article writing.
 
 **Outputs:**  
 - Project notebook in `.ipynb` file format.
